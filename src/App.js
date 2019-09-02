@@ -1,24 +1,60 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import Footer from './components/Footer';
+import Metrics from './components/Metrics';
+import Results from './components/Results';
+import getProfessionsJSON from './lib/getProfessionsJSON';
+import professionList from './lib/professionList';
+
+import 'antd/dist/antd.css';
+import './scss/app.scss';
 
 function App() {
+  const [step, setStep] = useState(1);
+  const [data, setData] = useState({
+    profession: '',
+    bucket: '',
+    birthDate: '28-04-1990',
+    gender: '',
+    premie: '',
+    professionCode: '',
+    r1: '',
+    r42: 0.56,
+    r7: 0.05,
+  })
+
+  getProfessionsJSON();
+
+  function getProfessions() {
+    const professionNames = [];
+
+    for(let i = 0; i < professionList.length; i += 1) {
+      professionNames.push(professionList[i].Name)
+    }
+
+    return professionNames.sort();
+  }
+
+  const professionNames = getProfessions()
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      <Metrics
+        step={step}
+        setStep={setStep}
+        data={data}
+        setData={setData}
+        professionNames={professionNames}
+      />
+
+      <Results
+        step={step}
+        setStep={setStep}
+        data={data}
+        setData={setData}
+      />
+
+      <Footer />
+
     </div>
   );
 }

@@ -1,0 +1,21 @@
+.results {
+
+  .progress-bar {
+    width: 250px;
+    margin: auto;
+    height: 14px;
+
+    .background {
+      width: 250px;
+      height: 14px;
+      background-color: #F5F5FA;
+      position: absolute;
+    }
+
+    .foreground {
+      height: 14px;
+      background-color: #FF7500;
+      position: absolute;
+    }
+  }
+}
