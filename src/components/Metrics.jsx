@@ -12,12 +12,14 @@ function Metrics(props) {
     data,
     setData,
     professions,
+    dateFormat,
   } = props;
 
   const {
     gender,
     birthDate,
     profession,
+    startDate,
   } = data;
 
 
@@ -25,9 +27,7 @@ function Metrics(props) {
     return null;
   }
 
-  const dateFormat = "YYYY-MM-DD";
-
-  function success(data) {
+  function success(responseData) {
     const {
       Bucket,
       CalculationId,
@@ -36,9 +36,10 @@ function Metrics(props) {
       Chance42DaysIll,
       Insurable,
       Premium,
-    } = data;
+    } = responseData;
 
     setData({
+      ...data,
       bucket: Bucket,
       premie: Premium,
       r1: Chance1DayIll,
@@ -71,9 +72,9 @@ function Metrics(props) {
         Wat is jouw kans om arbeidsongeschikt te raken?
       </p>
 
-      <h2>
+      <h3>
         Geboortedatum
-      </h2>
+      </h3>
 
       <DatePicker
         format={dateFormat}
@@ -84,9 +85,9 @@ function Metrics(props) {
       />
 
       <br /><br />
-      <h2>
+      <h3>
         Beroep
-      </h2>
+      </h3>
 
       <AutoComplete
         onChange={value => setData({ ...data, profession: value })}
@@ -98,6 +99,8 @@ function Metrics(props) {
         }
         style={{ width: 250 }}
       />
+
+      <br /><br />
 
       <Radio.Group
         buttonStyle="solid"

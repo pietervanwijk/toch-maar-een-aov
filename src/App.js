@@ -1,25 +1,27 @@
 import React, { useState } from 'react';
+import moment from 'moment';
 import Footer from './components/Footer';
 import Metrics from './components/Metrics';
 import Results from './components/Results';
 import getProfessionsJSON from './lib/getProfessionsJSON';
 import professionJSON from './lib/professionJSON';
 
-import 'antd/dist/antd.css';
 import './scss/app.scss';
+
+const dateFormat = "YYYY-MM-DD";
 
 function App() {
   const [step, setStep] = useState(1);
   const [data, setData] = useState({
     profession: {},
     bucket: '',
-    birthDate: '1990-04-28',
-    startDate: '',
+    birthDate: moment().subtract(30,'years').format(dateFormat),
+    startDate: moment().add(1,'days').format(dateFormat),
     gender: '',
     premie: '',
     r1: '',
-    r42: 0.56,
-    r7: 0.05,
+    r42: '',
+    r7: '',
     insurable: '',
     calculationId: '',
   })
@@ -49,6 +51,7 @@ function App() {
         data={data}
         setData={setData}
         professions={professions}
+        dateFormat={dateFormat}
       />
 
       <Results
