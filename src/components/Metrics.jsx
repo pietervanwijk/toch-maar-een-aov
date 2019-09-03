@@ -28,7 +28,7 @@ function Metrics(props) {
   function handleSubmit() {
     if (gender && birthDate && profession) {
       const professionCode = professions.list[profession].code;
-      const startDate = moment().format(dateFormat);
+      const startDate = moment().add(1,'days').format(dateFormat);
 
       getRiskAssessment(birthDate, startDate, gender, professionCode);
     }
