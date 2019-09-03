@@ -1,6 +1,7 @@
 import React from 'react';
 import moment from 'moment';
 import { DatePicker, AutoComplete, Button, Icon } from 'antd';
+import getRiskAssessment from '../lib/getRiskAssessment';
 
 function Metrics(props) {
   const {
@@ -11,10 +12,14 @@ function Metrics(props) {
     professionNames,
   } = props;
 
-  const dateFormat = "DD-MM-YYYY";
-
   if(step !== 1) {
     return null;
+  }
+
+  const dateFormat = "DD-MM-YYYY";
+
+  function handleSubmit() {
+    getRiskAssessment();
   }
 
   return(
@@ -60,7 +65,7 @@ function Metrics(props) {
         type="primary"
         size="large"
         style={{ width: 250 }}
-        onClick={() => setStep(2)}
+        onClick={handleSubmit}
       >
         Wat is mijn risico?
         <Icon type="right" />

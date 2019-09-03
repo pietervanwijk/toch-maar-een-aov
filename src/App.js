@@ -22,8 +22,6 @@ function App() {
     r7: 0.05,
   })
 
-  getProfessionsJSON();
-
   function getProfessions() {
     const professionNames = [];
 
