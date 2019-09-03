@@ -20,6 +20,8 @@ function App() {
     r1: '',
     r42: 0.56,
     r7: 0.05,
+    insurable: '',
+    calculationId: '',
   })
 
   function getProfessions() {

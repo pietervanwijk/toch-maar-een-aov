@@ -1,9 +1,11 @@
-import React from 'react';
+import React, { useState } from 'react';
 import moment from 'moment';
 import { DatePicker, AutoComplete, Button, Icon, Radio } from 'antd';
 import getRiskAssessment from '../lib/getRiskAssessment';
 
 function Metrics(props) {
+  const [loading, setLoading] = useState(false);
+
   const {
     step,
     setStep,
@@ -25,12 +27,38 @@ function Metrics(props) {
 
   const dateFormat = "YYYY-MM-DD";
 
+  function success(data) {
+    const {
+      Bucket,
+      CalculationId,
+      Chance1DayIll,
+      Chance7YearsIll,
+      Chance42DaysIll,
+      Insurable,
+      Premium,
+    } = data;
+
+    setData({
+      bucket: Bucket,
+      premie: Premium,
+      r1: Chance1DayIll,
+      r42: Chance42DaysIll,
+      r7: Chance7YearsIll,
+      insurable: Insurable,
+      calculationId: CalculationId,
+    })
+    setStep(2);
+    setLoading(false);
+  }
+
   function handleSubmit() {
     if (gender && birthDate && profession) {
+      setLoading(true);
+
       const professionCode = professions.list[profession].code;
       const startDate = moment().add(1,'days').format(dateFormat);
 
-      getRiskAssessment(birthDate, startDate, gender, professionCode);
+      getRiskAssessment(birthDate, startDate, gender, professionCode, success);
     }
   }
 
@@ -71,7 +99,13 @@ function Metrics(props) {
         style={{ width: 250 }}
       />
 
-      <Radio.Group onChange={e => setData({ ...data, gender: e.target.value })}>
+      <Radio.Group
+        buttonStyle="solid"
+        size="large"
+        onChange={e => setData({ ...data, gender: e.target.value })}
+        style={{ width: 250 }}
+        className="gender"
+      >
         <Radio.Button value="Female">Vrouw</Radio.Button>
         <Radio.Button value="Male">Man</Radio.Button>
       </Radio.Group>
@@ -83,6 +117,7 @@ function Metrics(props) {
         size="large"
         style={{ width: 250 }}
         onClick={handleSubmit}
+        loading={loading}
       >
         Wat is mijn risico?
         <Icon type="right" />

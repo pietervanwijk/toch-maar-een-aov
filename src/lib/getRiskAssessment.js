@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-function getRiskAssessment(birthDate, startDate, gender, profession) {
+function getRiskAssessment(birthDate, startDate, gender, profession, success) {
   const url = 'http://tochmaareenaov.nl/api/riskassessment';
 
   axios.post(
@@ -11,7 +11,7 @@ function getRiskAssessment(birthDate, startDate, gender, profession) {
       profession,
     }
     )
-    .then(response => console.log(response))
+    .then(response => success(response.data))
 }
 
 export default getRiskAssessment;
