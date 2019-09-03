@@ -5,6 +5,10 @@ import getRiskAssessment from '../lib/getRiskAssessment';
 
 function Metrics(props) {
   const [loading, setLoading] = useState(false);
+  const [error, setError] = useState({
+    profession: false,
+    gender: false,
+  });
 
   const {
     step,
@@ -56,10 +60,11 @@ function Metrics(props) {
     if (gender && birthDate && profession) {
       setLoading(true);
 
-      const professionCode = professions.list[profession].code;
-      const startDate = moment().add(1,'days').format(dateFormat);
-
-      getRiskAssessment(birthDate, startDate, gender, professionCode, success);
+      getRiskAssessment(birthDate, startDate, gender, profession.code, success);
+    } else if (!profession) {
+      setError({ ...error, profession: true })
+    } else if (!gender) {
+      setError({ ...error, gender: true })
     }
   }
 
@@ -90,7 +95,10 @@ function Metrics(props) {
       </h3>
 
       <AutoComplete
-        onChange={value => setData({ ...data, profession: value })}
+        onSelect={value => {
+          setData({ ...data, profession: professions.list[value] })
+          setError({ ...error, profession: false })
+        }}
         dataSource={professions.names}
         placeholder="Start met typen.."
         size="large"
@@ -100,18 +108,30 @@ function Metrics(props) {
         style={{ width: 250 }}
       />
 
+      <p className="error-message" style={{ display: error.profession ? 'block' : 'none' }}>
+        Selecteer een beroep uit de lijst
+      </p>
+
       <br /><br />
 
       <Radio.Group
         buttonStyle="solid"
         size="large"
-        onChange={e => setData({ ...data, gender: e.target.value })}
+        onChange={e => {
+          setData({ ...data, gender: e.target.value })
+          setError({ ...error, gender: false })
+        }}
         style={{ width: 250 }}
         className="gender"
+        value={gender}
       >
         <Radio.Button value="Female">Vrouw</Radio.Button>
         <Radio.Button value="Male">Man</Radio.Button>
       </Radio.Group>
+
+      <p className="error-message" style={{ display: error.gender ? 'block' : 'none' }}>
+        Selecteer een geslacht
+      </p>
 
       <br /><br />
 

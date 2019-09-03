@@ -1,0 +1,5261 @@
+{
+  "names": [
+    "Aannemer bouwbedrijf meewerkend",
+    "Aannemer bouwbedrijf niet meewerkend",
+    "Aannemer grond-, weg- en waterbouw",
+    "Accountmanager",
+    "Acquisiteur",
+    "Acteur",
+    "Actuarieel rekenaar",
+    "Actuaris",
+    "Acupuncturist",
+    "Administrateur",
+    "Administratie-adviseur",
+    "Adviseur licht / geluid, geen installatie",
+    "Adviseur ruimtelijke ordening en planologie",
+    "Adviseur zonnepanelen geen installatie",
+    "Advocaat",
+    "Aeronautisch ingenieur",
+    "Agrarisch adviseur",
+    "Agrarisch dienstverlener",
+    "Akoepedist / gehoordeskundige",
+    "Alfahulp",
+    "Allergoloog",
+    "Anatoom",
+    "Andragoog",
+    "Anesthesist",
+    "Antenneplaatser, schotel, radio, tv",
+    "Antiquair niet restaurerend",
+    "Antiquair restaurerend",
+    "Apotheker",
+    "Applicatiebeheerder / functioneel beheerder",
+    "Arbeidsanalist",
+    "Arbeidsbemiddelaar",
+    "Arbeidsdeskundige",
+    "Arbeidstherapeut",
+    "Arbo-adviseur",
+    "Archeoloog",
+    "Architect",
+    "Archivaris",
+    "Artdirector niet reclame",
+    "Artdirector reclame",
+    "Arts-microbioloog",
+    "Artsenbezoeker",
+    "Asbestcontroleur / asbestinspecteur",
+    "Asbestsaneerder",
+    "Assurantieadviseur / verzekeringsadviseur",
+    "Attractieverkoper",
+    "Audicien",
+    "Audiometrist",
+    "Auditor register IT",
+    "Auteur",
+    "Autobuschauffeur",
+    "Autobusondernemer geen chauffeur",
+    "Autobusondernemer ook chauffeur",
+    "Autoglaszetter / autoglashersteller",
+    "Autohandelaar met showroom",
+    "Autohandelaar zonder showroom",
+    "Automatiekhouder",
+    "Automonteur / motormonteur",
+    "Autorij-instructeur / motorrij-instructeur",
+    "Autorijinstructeur",
+    "Autorijschoolhouder",
+    "Autoschadehersteller",
+    "Autosloper",
+    "Autoverhuurder",
+    "Bacteriologisch analist",
+    "Bacterioloog",
+    "Baggermachinist",
+    "Balletdanser",
+    "Balletleraar",
+    "Ballonvaarder",
+    "Bandenhandelaar",
+    "Banketbakker uitsluitend winkelverkoop",
+    "Banketbakker zelf bakkend",
+    "Barista",
+    "Barkeeper",
+    "Basaltsteenzetter",
+    "Basisarts",
+    "Bedrijfsarts",
+    "Bedrijfseconoom",
+    "Bedrijfshygiënist",
+    "Bedrijfskundige",
+    "Beeld en geluidstechnicus alleen studiowerk",
+    "Beeld en geluidstechnicus op locatie",
+    "Beeldend kunstenaar",
+    "Beeldhouwer",
+    "Begeleider lichamelijk gehandicapten",
+    "Begeleider van mensen met beperking",
+    "Begeleider verstandelijk gehandicapten",
+    "Behanger",
+    "Bejaardenverzorger",
+    "Bejaardenwelzijnswerker",
+    "Bekkentherapeut",
+    "Belastingadviseur",
+    "Beleggingsadviseur",
+    "Beleggingsanalist",
+    "Bemiddelaar in gastouderschap",
+    "Benzinepomphouder bedienend",
+    "Benzinepomphouder niet bedienend",
+    "Berger",
+    "Beroepskeuzeadviseur",
+    "Bestelautochauffeur",
+    "Betontimmerman",
+    "Betonvlechter / betonijzervlechter",
+    "Betonwerker / betonboorder",
+    "Beurtschipper",
+    "Beveiliger / bewaker",
+    "Beveiligingsadviseur",
+    "Bewindvoerder",
+    "Bezigheidstherapeut",
+    "Bijenhouder / imker",
+    "Binnenhuisarchitect",
+    "Binnenvaartondernemer",
+    "Binnenvaartschipper",
+    "Binnenwatervisser",
+    "Biochemicus",
+    "Biochemisch analist",
+    "Biologisch analist",
+    "Bioloog",
+    "Biomedicus",
+    "Bioscoophouder",
+    "Bistrohouder",
+    "Bloemenkweker / plantenkweker kassen",
+    "Bloemenkweker / plantenkweker koude grond",
+    "Bloemist inclusief inkoop op de veiling",
+    "Bloemist uitsluitend winkelverkoop",
+    "Blogger",
+    "Blokkenlijmer",
+    "Bodemonderzoeker, inspectie en advies",
+    "Boekbinder",
+    "Boekdrukker",
+    "Boekhouder",
+    "Bonthandelaar",
+    "Bontwerker",
+    "Boomgaardhouder",
+    "Boomkweker",
+    "Boomrooier",
+    "Boordwerktuigkundige",
+    "Bosbouwer",
+    "Bosbouwkundige",
+    "Boswachter",
+    "Botenhandelaar",
+    "Botenverhuurder met reparatie",
+    "Botenverhuurder zonder reparatie",
+    "Bouwinspecteur",
+    "Bouwkundig adviseur",
+    "Bouwkundig tekenaar",
+    "Bouwkundige bureauwerk, beperkt toezichthoudend",
+    "Bouwkundige meewerkend",
+    "Bouwkundige toezichthoudend, beperkt meewerkend",
+    "Bouwmachinemachinist",
+    "Bouwopzichter meewerkend",
+    "Bouwopzichter niet meewerkend",
+    "Brandstofcontainersinspecteur",
+    "Brandstofhandelaar",
+    "Bromfietsmonteur",
+    "Broodbakker uitsluitend winkelverkoop",
+    "Broodbakker zelf bakkend",
+    "Broodjeszaakhouder / eigenaar lunchroom",
+    "Buitensportinstructeur outdoor",
+    "Bulldozermachinist",
+    "Bungalowparkhouder",
+    "Business Intelligence consultant",
+    "Cabaretier / conferencier",
+    "Café-restauranthouder",
+    "Caféhouder",
+    "Calculator",
+    "Cameraman",
+    "Cameraman alleen studiowerk",
+    "Campinghouder meewerkend",
+    "Campinghouder niet meewerkend",
+    "Cardio-anesthesist",
+    "Cardioloog",
+    "Cardiopulmonaal chirurg",
+    "Cargadoor",
+    "Carrosseriebouwer",
+    "Casemanager",
+    "Cateraar meewerkend",
+    "Cateraar niet meewerkend",
+    "Cesartherapeut / Mensendiecktherapeut",
+    "Chauffeur particulier / privé",
+    "Chemicus niet ontplofbare stoffen",
+    "Chemicus ontplofbare stoffen",
+    "Chemisch / scheikundig analist",
+    "Chemisch ingenieur",
+    "Chemisch laborant",
+    "Chemisch reiniger",
+    "Chiropodist",
+    "Chiropractor",
+    "Choreograaf",
+    "Cineast",
+    "Classificeerder",
+    "Columnist",
+    "Commercieel aannemer",
+    "Commercieel directeur",
+    "Commissionair",
+    "Communicatieadviseur",
+    "Communicatietrainer",
+    "Componist",
+    "Computermonteur",
+    "Conciërge",
+    "Confectieatelierhouder",
+    "Confectionair",
+    "Conrector",
+    "Constructeur",
+    "Constructiebankwerker",
+    "Constructieschilder / montageschilder",
+    "Constructietekenaar",
+    "Constructiewerker",
+    "Consultant IT / ICT",
+    "Controller",
+    "Copyshophouder",
+    "Copywriter",
+    "Couturier",
+    "Crècheleider",
+    "Cursusbegeleider",
+    "Cv-monteur",
+    "DTP'er grafisch",
+    "Dakdekker",
+    "Danser",
+    "Dansleraar geen ballet",
+    "Dansschoolhouder",
+    "Decorateur",
+    "Decorateur aardewerk",
+    "Decoratieschilder",
+    "Decorbouwer",
+    "Decorontwerper",
+    "Demonstratrice",
+    "Dermatoloog",
+    "Detective",
+    "Deurwaarder",
+    "Diamantair alleen winkelier",
+    "Diamantbewerker",
+    "Diamantenhandelaar",
+    "Dichter",
+    "Dierenarts huisdieren",
+    "Dierenasielhouder",
+    "Dierenpensionhouder",
+    "Dierenpreparateur",
+    "Dirigent",
+    "Discotheekhouder",
+    "Diskjockey",
+    "Distillateur",
+    "Diëtist",
+    "Dominee",
+    "Dorsmachinist",
+    "Doventolk",
+    "Dressman",
+    "Drogist",
+    "Drukker meewerkend",
+    "Drukker niet meewerkend",
+    "Duiker",
+    "Duwbootschipper",
+    "Econometrist",
+    "Economisch adviseur",
+    "Econoom",
+    "Edelsmid",
+    "Editor beeld en geluid",
+    "Eendenfokker",
+    "Eerstelijns verloskundige",
+    "Effectenbemiddelaar",
+    "Effectenmakelaar",
+    "Eierhandelaar",
+    "Eigenaar CD- DVD- platenwinkel",
+    "Eigenaar aardewerkwinkel / keramiekwinkel",
+    "Eigenaar afslankstudio",
+    "Eigenaar afvalverwerkingsbedrijf",
+    "Eigenaar auto-accessoirewinkel",
+    "Eigenaar autowasstraat niet meewerkend",
+    "Eigenaar babyartikelenwinkel",
+    "Eigenaar bakstudio / kookstudio",
+    "Eigenaar bedrijf in reclame/belettering niet meew.",
+    "Eigenaar bezorgdienst diepvriesart niet meewerkend",
+    "Eigenaar bijouterieënwinkel / galanterieënwinkel",
+    "Eigenaar boeken en tijdschriftenwinkel",
+    "Eigenaar botenstalling",
+    "Eigenaar bureau meet- en regeltechniek",
+    "Eigenaar cadeauwinkel",
+    "Eigenaar callcenter",
+    "Eigenaar caravanstalling",
+    "Eigenaar chocolade artikelen -winkel",
+    "Eigenaar computerwinkel / softwarewinkel",
+    "Eigenaar cosmetica en parfumerieën-winkel",
+    "Eigenaar delicatessenwinkel",
+    "Eigenaar dierenspeciaalzaak",
+    "Eigenaar doe-het-zelfwinkel",
+    "Eigenaar elektronicawinkel",
+    "Eigenaar expeditiebedrijf",
+    "Eigenaar fiets- / bromfietswinkel excl. reparatie",
+    "Eigenaar fiets- / bromfietswinkel incl. reparatie",
+    "Eigenaar fotoartikelenwinkel",
+    "Eigenaar groente, fruit -winkel, bezorgend",
+    "Eigenaar groente, fruit -winkel, niet bezorgend",
+    "Eigenaar hengelsportartikelenwinkel",
+    "Eigenaar hobby-artikelenwinkel",
+    "Eigenaar hondenuitlaatservice",
+    "Eigenaar huishoudelijke artikelen winkel",
+    "Eigenaar indoorspeeltuin",
+    "Eigenaar kaas-, noten- en wijnenwinkel",
+    "Eigenaar kapsalon niet meewerkend",
+    "Eigenaar keukenwinkel / badkamerwinkel",
+    "Eigenaar kinderdagverblijf",
+    "Eigenaar kinderdagverblijf niet meewerkend",
+    "Eigenaar kledingwinkel",
+    "Eigenaar koffiezaak",
+    "Eigenaar kringloopwinkel",
+    "Eigenaar leasebedrijf",
+    "Eigenaar lederwarenwinkel",
+    "Eigenaar lingeriewinkel",
+    "Eigenaar maaltijdbezorgservice niet meewerkend",
+    "Eigenaar meubelwinkel",
+    "Eigenaar mode-artikelenwinkel",
+    "Eigenaar modellenbureau",
+    "Eigenaar multifunctioneel centrum",
+    "Eigenaar muziekinstrumentenwinkel bezorgend",
+    "Eigenaar muziekinstrumentenwinkel niet bezorgend",
+    "Eigenaar naaimachinewinkel",
+    "Eigenaar natuurvoedingswinkel",
+    "Eigenaar parkeergelegenheid",
+    "Eigenaar porselein, glas en servies-winkel",
+    "Eigenaar printplaatassemblagebedrijf",
+    "Eigenaar recyclingbedrijf",
+    "Eigenaar relatiebemiddelingsbureau",
+    "Eigenaar sauna / zonnebank / wellnesscentrum",
+    "Eigenaar schildersbedrijf niet meewerkend",
+    "Eigenaar schoenenwinkel",
+    "Eigenaar schoonmaakbedrijf niet meewerkend",
+    "Eigenaar sigaretten, tabak, tijdschriften -winkel",
+    "Eigenaar snoepwinkel",
+    "Eigenaar souvenirwinkel",
+    "Eigenaar speelgoedwinkel",
+    "Eigenaar sportartikelenwinkel",
+    "Eigenaar stukadoorsbedrijf niet meewerkend",
+    "Eigenaar suikerwerkwinkel",
+    "Eigenaar tapijtwinkel",
+    "Eigenaar taxionderneming niet meewerkend",
+    "Eigenaar telecommunicatie- / -apparatuurwinkel",
+    "Eigenaar timmerbedrijf niet meewerkend",
+    "Eigenaar tuincentrum",
+    "Eigenaar uitzendbureau / detacheringsbureau",
+    "Eigenaar verfwinkel / behangwinkel",
+    "Eigenaar viswinkel met bakken, fileren",
+    "Eigenaar viswinkel zonder bakken, fileren",
+    "Eigenaar voedingssupplementenwinkel",
+    "Eigenaar watersportwinkel / scheepsartikelenwinkel",
+    "Eigenaar webwinkel exclusief orderverwerking",
+    "Eigenaar webwinkel inclusief orderverwerking",
+    "Eigenaar winkel audiovisuele apparatuur",
+    "Eigenaar witgoedwinkel",
+    "Eigenaar woonaccessoirewinkel",
+    "Eigenaar zorgboerderij",
+    "Elektricien hoogspanning",
+    "Elektricien laagspanning",
+    "Elektromechanisch / instrumentatie-engineer",
+    "Elektronicus",
+    "Elektrotechnicus",
+    "Elektrotechnisch ingenieur",
+    "Elektrotechnisch installateur",
+    "Elektrotechnisch monteur",
+    "Embryoloog",
+    "Endocrinoloog",
+    "Entertainer",
+    "Epidemioloog",
+    "Erfelijkheidsdeskundige",
+    "Ergonoom",
+    "Ergotherapeut",
+    "Essayist",
+    "Etaleur",
+    "Etymoloog",
+    "Evenementenorganisator bureauwerk",
+    "Evenementenorganisator geen sport, meewerkend",
+    "Evenementenorganisator sport meewerkend",
+    "Expeditiechauffeur",
+    "Exporteur / importeur niet reizend",
+    "Exporteur / importeur reizend",
+    "Farmaceut",
+    "Farmacoloog",
+    "Fietsenmaker / fietsenreparateur",
+    "Filmer geen studiowerk",
+    "Filmopnameleider",
+    "Filmproducent / filmregisseur",
+    "Filmtechnicus / geluidstechnicus alleen studiowerk",
+    "Filmtechnicus / geluidstechnicus op locatie",
+    "Financieel adviseur",
+    "Financieel adviseur / planner",
+    "Financieel directeur",
+    "Fiscalist",
+    "Fitnessinstructeur",
+    "Fleboloog",
+    "Forensisch analist / onderzoeker",
+    "Fotograaf op locatie",
+    "Fotograaf winkelier / studio",
+    "Fotolaborant / foto-ontwikkelaar",
+    "Fotomodel",
+    "Functie-analist",
+    "Fysicus",
+    "Fysioloog",
+    "Fysiotherapeut",
+    "Fysisch chemicus",
+    "Galeriehouder",
+    "Galvaniseur",
+    "Game designer",
+    "Garagehouder meewerkend",
+    "Garagehouder niet meewerkend",
+    "Gastouder",
+    "Gastro-enteroloog",
+    "Gastvrouw / gastheer",
+    "Gebouwensloper",
+    "Geitenfokker",
+    "Geneticus",
+    "Geofysicus",
+    "Geoloog",
+    "Gereedschapsmaker",
+    "Geriater",
+    "Gestalttherapeut",
+    "Gevelreiniger",
+    "Gezagvoerder luchtvaart",
+    "Gezinshulp",
+    "Gezinsverzorger",
+    "Gezondheidsvoorlichter",
+    "Glasblazer",
+    "Glashandelaar",
+    "Glastuinder",
+    "Glaszetter geen kassenbouw",
+    "Glaszetter kassenbouw",
+    "Glazenwasser met ladder / telescoopstang",
+    "Glazenwasser met liftbak",
+    "Golfleraar",
+    "Graafmachinemachinist",
+    "Graficus",
+    "Grafisch ontwerper",
+    "Grafisch vormgever",
+    "Granietwerker",
+    "Graszodenkweker",
+    "Graveur",
+    "Greenkeeper",
+    "Griendhakker",
+    "Grimeur",
+    "Gritstraler",
+    "Groentekweker / fruitkweker kas",
+    "Groentekweker / fruitkweker koude grond",
+    "Groenteman",
+    "Grondverzetmachinist",
+    "Grondwerker geen wegenbouw",
+    "Grondwerker ook wegenbouw",
+    "Grondwerktuigkundige",
+    "Groothand.in dierenverzorgingsproduct niet bezorg.",
+    "Groothandelaar in aardappelen",
+    "Groothandelaar in aardewerk / keramiek",
+    "Groothandelaar in automaterialen en -onderdelen",
+    "Groothandelaar in baby- en kinderartikelen",
+    "Groothandelaar in bakkerijgrondstoffen",
+    "Groothandelaar in bijouterieën en galanterieën",
+    "Groothandelaar in bloemen en planten",
+    "Groothandelaar in bouwmaterialen",
+    "Groothandelaar in computerhardware",
+    "Groothandelaar in cosmetica en parfumerieën",
+    "Groothandelaar in dierenbenodigdheden",
+    "Groothandelaar in dierenverzorgingsproduct bezorg.",
+    "Groothandelaar in drank",
+    "Groothandelaar in elektronica",
+    "Groothandelaar in emballage / pallets",
+    "Groothandelaar in fietsen / brommers",
+    "Groothandelaar in foerage-artikelen / veevoer",
+    "Groothandelaar in food artikelen",
+    "Groothandelaar in graan, meel, zaden",
+    "Groothandelaar in groente / fruit",
+    "Groothandelaar in ijzerwaren",
+    "Groothandelaar in kaas",
+    "Groothandelaar in kantoorartikelen",
+    "Groothandelaar in kantoormachines",
+    "Groothandelaar in kappersbenodigdheden",
+    "Groothandelaar in keukenapparatuur",
+    "Groothandelaar in kleding",
+    "Groothandelaar in koffie/ thee/ cacao/ specerijen",
+    "Groothandelaar in kunststof materialen",
+    "Groothandelaar in medische producten",
+    "Groothandelaar in meubelen",
+    "Groothandelaar in motoren / machines",
+    "Groothandelaar in non-food artikelen",
+    "Groothandelaar in olijfoliën / consumptie-oliën",
+    "Groothandelaar in revalidatiehulpmiddelen",
+    "Groothandelaar in schoenen",
+    "Groothandelaar in speelgoed",
+    "Groothandelaar in stoffen",
+    "Groothandelaar in verf",
+    "Groothandelaar in verlichting en armaturen",
+    "Groothandelaar in verpakkingsmaterialen",
+    "Groothandelaar in vis",
+    "Groothandelaar in vlees en vleeswaren",
+    "Groothandelaar in vleesproducten",
+    "Groothandelaar in zuivel",
+    "Gymnastiekleraar",
+    "Gynaecoloog",
+    "Handelaar brandblusmiddelen ook controle/onderhoud",
+    "Handelaar in caravans",
+    "Handelaar in diepvriesproducten",
+    "Handelaar in garagedeuren/ zonweringen/ rolluiken",
+    "Handelaar in landbouwmachines niet reparerend",
+    "Handelaar in landbouwmachines ook reparerend",
+    "Handelaar in lompen / oude metalen",
+    "Handelaar in motoren / machines",
+    "Handelaar in motorfietsen",
+    "Handelaar in netten / touwen inclusief reparatie",
+    "Handelaar in relatiegeschenken",
+    "Handelaar in sportartikelen",
+    "Handelaar in vloeren en vloerbedekking",
+    "Handelsagent niet reizend",
+    "Handelsagent reizend",
+    "Haptonoom",
+    "Haptotherapeut",
+    "Hartchirurg",
+    "Havenmeester",
+    "Headhunter / recruiter",
+    "Heftruckchauffeur",
+    "Heibaas",
+    "Heier",
+    "Heilgymnast / masseur",
+    "Helikoptervlieger / helikopterpiloot",
+    "Histoloog",
+    "Hoefsmid",
+    "Hofmeester",
+    "Homeopaat arts",
+    "Homeopaat geen arts",
+    "Hondenfokker",
+    "Hondentrainer",
+    "Hondentrimmer",
+    "Horeca-adviseur",
+    "Horlogemaker",
+    "Hotel-restauranthouder meewerkend",
+    "Hotel-restauranthouder niet meewerkend",
+    "Hotelhouder meewerkend",
+    "Hotelhouder niet meewerkend",
+    "Houthakker",
+    "Houthandelaar",
+    "Hovenier",
+    "Huidarts",
+    "Huidtherapeut",
+    "Huisarts",
+    "Huishoudster",
+    "Huismeester",
+    "Huisschilder",
+    "Hypnotherapeut",
+    "Hypotheekadviseur",
+    "ICT'er installatie, reparatie",
+    "IJsmaker",
+    "IJssalonhouder",
+    "IJsverkoper",
+    "Illusionist / mentalist",
+    "Imam",
+    "Imitator",
+    "Impresario",
+    "Inbraakpreventieadviseur",
+    "Industrieel ontwerper",
+    "Informatie-analist / data-analist",
+    "Informatiearchitect",
+    "Inkoper binnenland",
+    "Inkoper buitenland",
+    "Inseminator",
+    "Inspecteur imp./exp. aardappelen, groenten, fruit",
+    "Inspecteur vloeibare lading",
+    "Inspecteur waterkwaliteit",
+    "Installateur CV / gas / water",
+    "Installateur audio / alarm auto",
+    "Installateur bedrijfsmeubilair ook reparerend",
+    "Installateur digitale media",
+    "Installateur hekwerk en/of poorten",
+    "Installateur isolatiemateriaal",
+    "Installateur kachels",
+    "Installateur sanitair / sauna's / zwembaden",
+    "Installateur zonnepanelen",
+    "Instrumentenmaker fijnmechanica",
+    "Instrumentenmaker gereedschap",
+    "Instrumentenmaker orthopedisch",
+    "Interieurbouwer",
+    "Interieurverzorger",
+    "Interimmanager",
+    "Internist",
+    "Isolatiemonteur",
+    "Jachtbouwer",
+    "Jachtopziener",
+    "Jeugdherbergleider",
+    "Jockey / Pikeur",
+    "Jongleur",
+    "Journalist / verslaggever binnenland",
+    "Journalist / verslaggever buitenland",
+    "Journalist redactie",
+    "Juridisch adviseur",
+    "Jurist",
+    "Juwelier met reparatie",
+    "Juwelier zonder reparatie",
+    "Kaakchirurg",
+    "Kaasmaker",
+    "Kabellegger",
+    "Kabellegger en buizenlegger",
+    "Kalkoenfokker",
+    "Kalvermester",
+    "Kamerverhuurder",
+    "Kantinebeheerder / kantinehouder",
+    "Kapitein zeevaart / kustvaart",
+    "Kapper",
+    "Karren- en kramenverhuurder",
+    "Kassenbouwer constructies",
+    "Kassenbouwer exclusief beglazen",
+    "Kassenbouwer inclusief beglazen",
+    "Keel-, neus- en oorarts, kno",
+    "Kelner",
+    "Kennelhouder",
+    "Kermisexploitant",
+    "Keukensteller / keukeninstallateur",
+    "Keuringsarts",
+    "Keurmeester APK",
+    "Keurmeester gereedschap",
+    "Keurmeester veiling",
+    "Kinderarts",
+    "Kinderleidster",
+    "Kinderneuroloog",
+    "Kinderpsychiater",
+    "Kinderpsycholoog",
+    "Kinderverzorger",
+    "Kitter",
+    "Kleermaker",
+    "Klimatoloog",
+    "Klinisch chemicus arts",
+    "Klinisch immunoloog",
+    "Klinisch verloskundige",
+    "Klinisch verpleegkundige",
+    "Klokkenmaker",
+    "Klompenmaker",
+    "Klusjesman",
+    "Koeienfokker",
+    "Koerier meewerkend",
+    "Koerier niet meewerkend",
+    "Kok",
+    "Konijnenfokker",
+    "Koperslager",
+    "Koppensneller",
+    "Koster",
+    "Kozijnzetter",
+    "Kraamverpleegster",
+    "Kraamverzorgende",
+    "Kraanmachinist / hoogwerkermachinist",
+    "Kraanverhuurder",
+    "Kranten en tijdschriften distributeur",
+    "Kuikenmester",
+    "Kuikensekser",
+    "Kunstenaar",
+    "Kunstgalerieconservator",
+    "Kunsthandelaar",
+    "Kunstschilder",
+    "Kunststofbewerker",
+    "Kunststoffenontwerper",
+    "Kustvisser",
+    "Kweker handelsgewassen",
+    "Kweker schelpdieren / wier",
+    "Laadschopmachninist / shovelmachinist",
+    "Laboratoriumarts",
+    "Landbouwkundig ingenieur",
+    "Landbouwmachineverhuurder",
+    "Landmeetkundig ingenieur",
+    "Landmeter",
+    "Lasser",
+    "Lector",
+    "Leerbewerker",
+    "Leerhandelaar",
+    "Leidekker",
+    "Leraar basis- / middelbaar- / beroepsonderwijs",
+    "Leraar buitengewoon onderwijs",
+    "Leraar hoger beroepsonderwijs / univers. onderwijs",
+    "Leraar surfen / zeilen",
+    "Leraar technische vakken",
+    "Leraar vechtsport / krachtsport",
+    "Levensmiddelenproducent",
+    "Liftmonteur",
+    "Lijstenhandelaar",
+    "Lijstenmaker",
+    "Lithograaf",
+    "Logopedist",
+    "Longarts",
+    "Loodgieter met dakdekken",
+    "Loodgieter zonder dakdekken",
+    "Loods binnenvaart",
+    "Loodsenbouwer",
+    "Loonslachter / slachter / uitbener",
+    "Loonwerker agrarisch",
+    "Loonwerker landbouwmachines",
+    "Loonwerker pluimvee",
+    "Loopbaanbegeleider",
+    "Looptrainer",
+    "Maag-, darm- en leverarts",
+    "Maatschappelijk werker",
+    "Machinebankwerker",
+    "Machinemonteur",
+    "Magnetiseur",
+    "Makelaar onroerend goed",
+    "Managementconsultant",
+    "Manegehouder geen paardrij-instructeur",
+    "Manegehouder ook paardrij-instructeur",
+    "Manicure",
+    "Mannequin",
+    "Manueel therapeut",
+    "Maquettebouwer",
+    "Marien bioloog",
+    "Marketeer / online marketeer",
+    "Marktkoopman stal / kraam",
+    "Marktkoopman verkoopwagen",
+    "Marktonderzoeker",
+    "Masseur geen sportmasseur",
+    "Masseur sport",
+    "Mediator echtscheiding / conflicten",
+    "Medisch adviseur",
+    "Medisch assistent",
+    "Medisch bioloog",
+    "Medisch laborant",
+    "Melkrijder",
+    "Melkveehouder met melkrobot",
+    "Melkveehouder zonder melkrobot",
+    "Mesoloog",
+    "Metaalbewerker exclusief lassen",
+    "Metaalbewerker inclusief lassen",
+    "Metaalconstructeur",
+    "Metselaar",
+    "Meubelmaker",
+    "Meubelontwerper",
+    "Meubelstoffeerder",
+    "Milieu-adviseur",
+    "Modeontwerper / kledingontwerper",
+    "Modiste",
+    "Molenaar",
+    "Mondarts / kaakchirurg",
+    "Mondhygiënist",
+    "Motorrijschoolhouder",
+    "Musicus",
+    "Muziekarrangeur",
+    "Muziekinstrumentenmaker bezorgend",
+    "Muziekinstrumentenmaker niet bezorgend",
+    "Muziekleraar",
+    "Muziekproducent",
+    "Muziekproducer",
+    "Naaister",
+    "Nagelstylist",
+    "Natuurkundige",
+    "Natuursteenhandelaar",
+    "Neurochirurg",
+    "Neurofysioloog",
+    "Neuroloog",
+    "Neuroloog psychiater",
+    "Neuropsychiater",
+    "Nieuwscommentator",
+    "Notaris",
+    "Nucleair geneeskundige",
+    "Oncoloog",
+    "Onderhoudsmonteur bruggen",
+    "Onderhoudsplanner",
+    "Ongediertebestrijder",
+    "Oogarts",
+    "Oorarts / otoloog",
+    "Oortechnicus inclusief vervaardigen otoplastieken",
+    "Operationeel directeur",
+    "Opticien",
+    "Optometrist",
+    "Opvoedkundige",
+    "Organisatie-adviseur",
+    "Orthodontist",
+    "Orthopedagoog",
+    "Orthopedisch chirurg",
+    "Orthopedisch maatnemer",
+    "Orthopedisch schoenmaker",
+    "Orthopeed",
+    "Orthoptist",
+    "Osteopaat arts",
+    "Osteopaat geen arts",
+    "Paardenfokker",
+    "Paardenhandelaar",
+    "Paardenhouder",
+    "Paardentandarts",
+    "Paardentrainer",
+    "Paardrijinstructeur",
+    "Paddenstoelkweker kassen",
+    "Paddenstoelkweker koude grond",
+    "Palletmaker",
+    "Papierhandelaar",
+    "Parketlegger",
+    "Particulier verpleegkundige",
+    "Pastoor",
+    "Pastoraal werker",
+    "Patholoog",
+    "Patholoog anatoom",
+    "Pedagoog",
+    "Pedicure",
+    "Pelsdierenfokker",
+    "Pensionhouder meewerkend",
+    "Pensionhouder niet meewerkend",
+    "Perfusionist",
+    "Periodontist",
+    "Persfotograaf binnenland",
+    "Persfotograaf buitenland",
+    "Personal trainer",
+    "Personeelsadviseur",
+    "Personenschadedeskundige",
+    "Pianostemmer",
+    "Plaatwerker",
+    "Plaatwerker auto's",
+    "Plastisch chirurg",
+    "Pluimveefokker",
+    "Pluimveehandelaar",
+    "Pluimveehouder",
+    "Podiumbouwer",
+    "Podoloog",
+    "Podotherapeut",
+    "Poelier niet zelf slachtend",
+    "Poelier zelf slachtend",
+    "Poetser auto's met wasstraat",
+    "Poetser auto's zonder wasstraat",
+    "Poffertjeskraamhouder",
+    "Politicoloog",
+    "Portier",
+    "Pottenbakker",
+    "Predikant",
+    "Procesoperator",
+    "Producent aardewerk",
+    "Producent betonwaren en cement",
+    "Producent bijouterieën en galanterieën",
+    "Producent chemicaliën",
+    "Producent chocolade / suikerwaar",
+    "Producent cosmetica",
+    "Producent films en video's",
+    "Producent ijs consumptie",
+    "Producent leerwaren",
+    "Producent metaalwaren",
+    "Producent parfumerieën",
+    "Producent textielwaren",
+    "Producent wijn, bier en gedestilleerd",
+    "Producent zuivelproducten",
+    "Productieleider uitvoerende kunst",
+    "Projectleider bouw meewerkend",
+    "Projectleider bouw niet meewerkend",
+    "Projectmanager",
+    "Pruikenmaker",
+    "Psychiater",
+    "Psycholoog",
+    "Psychomotorisch therapeut",
+    "Psychotherapeut niet psycholoog",
+    "Psychotherapeut ook psycholoog",
+    "Public relations officer",
+    "Rabbijn",
+    "Radiodiagnostisch laborant",
+    "Radioloog",
+    "Radioproducent / tv-producent",
+    "Radioproducer / tv-producer",
+    "Radiotherapeut",
+    "Re-integratieadviseur",
+    "Recensent",
+    "Receptioniste",
+    "Reclame-adviseur",
+    "Reclamemonteur ook op hoogte",
+    "Reclameontwerper / reclametekenaar",
+    "Reclameschilder",
+    "Reclametekenaar",
+    "Reclamevlieger",
+    "Recreatieparkhouder",
+    "Redacteur",
+    "Reder",
+    "Regisseur",
+    "Registeraccountant",
+    "Reisadviseur",
+    "Reisbureauhouder",
+    "Reisleider",
+    "Relatietherapeut",
+    "Rentmeester",
+    "Restauranthouder meewerkend",
+    "Restauranthouder niet meewerkend",
+    "Restaurateur kunstvoorwerpen",
+    "Restaurateur meubelen",
+    "Reumatoloog",
+    "Revalidatiearts",
+    "Rietdekker",
+    "Rietsnijder",
+    "Rioleringsinspecteur",
+    "Rioolontstopper",
+    "Rundveehouder anders dan melkvee",
+    "Sales promotor",
+    "Schade-expert",
+    "Schaderegelaar",
+    "Schapenfokker",
+    "Schapenhouder / geitenhouder",
+    "Scheepsbouwer meewerkend",
+    "Scheepsbouwer niet meewerkend",
+    "Scheepsbouwkundig ingenieur",
+    "Scheepssloper",
+    "Scheepswerktuigbouwkundige binnenvaart",
+    "Scheepswerktuigbouwkundige zeevaart / kustvaart",
+    "Schoenmaker",
+    "Schoolarts",
+    "Schooltandarts",
+    "Schoonheidsspecialist",
+    "Schoonmaker schepen / wagons",
+    "Schoorsteenbouwer",
+    "Schoorsteenveger",
+    "Secretaresse / secretaris",
+    "Seksuoloog",
+    "Seroloog",
+    "Slager niet zelf slachtend",
+    "Slager zelf slachtend",
+    "Sleepbootschipper",
+    "Slijter bezorgend",
+    "Slijter niet bezorgend",
+    "Slotenmaker",
+    "Smelter / gieter",
+    "Snackbarhouder",
+    "Snackkraamhouder",
+    "Socioloog",
+    "Software-ontwikkelaar / programmeur",
+    "Spackspuiter",
+    "Sportleraar",
+    "Sportschoolhouder geen instructeur",
+    "Sprinklerinstallateur",
+    "Spuiter met plaatwerk",
+    "Spuiter zonder plaatwerk",
+    "Stallenbouwer",
+    "Standbouwer",
+    "Stedenbouwkundig ingenieur",
+    "Stedenbouwkundige",
+    "Steenbakker",
+    "Steenhouwer",
+    "Steigerbouwer / stellingbouwer",
+    "Stookinstallatiesinspecteur",
+    "Straler",
+    "Strandpaviljoenhouder",
+    "Strandtenthouder",
+    "Stratenmaker niet volledig automatisch",
+    "Stratenmaker volledig automatisch",
+    "Striptekenaar / karikatuurtekenaar / sneltekenaar",
+    "Studiebegeleider",
+    "Stukadoor",
+    "Stuwadoor",
+    "Stylist",
+    "Supermarkthouder rijdende winkel",
+    "Supermarkthouder vaste locatie",
+    "Systeemanalist",
+    "Systeemanalist / computeranalist",
+    "Systeembeheerder",
+    "Systeemontwerper",
+    "Systeemplafondmonteur",
+    "Systeemwandbouwer",
+    "Tandarts",
+    "Tandtechnicus",
+    "Tatoeëerder / piercer",
+    "Taxateur geen onroerend goed",
+    "Taxateur onroerend goed",
+    "Taxichauffeur",
+    "Technisch adviseur",
+    "Technisch directeur",
+    "Technisch tekenaar",
+    "Tegelzetter",
+    "Tekenaar / illustrator",
+    "Tekenleraar",
+    "Tekstschrijver",
+    "Telecominstallateur",
+    "Tennisleraar",
+    "Tentenbouwer",
+    "Tentenmaker",
+    "Tentenverhuurder meewerkend",
+    "Tentenverhuurder niet meewerkend",
+    "Terrazzowerker",
+    "Testcoördinator ICT",
+    "Textielbewerker",
+    "Theateragent",
+    "Timmerman",
+    "Tolk",
+    "Toneelspeler",
+    "Toxicoloog",
+    "Traiteur",
+    "Transportondernemer meewerkend",
+    "Transportondernemer niet meewerkend",
+    "Transportplanner",
+    "Treinmachinist",
+    "Trimmer",
+    "Tuin- en landschapsarchitect",
+    "Tuinbouwkundig ingenieur",
+    "Tuinman",
+    "Tv-presentator",
+    "Typograaf",
+    "Uitdeuker plaatwerker",
+    "Uitgever geen drukker",
+    "Uitgever ook drukker",
+    "Uitvaartverzorger",
+    "Uitvoerder meewerkend",
+    "Uitvoerder niet meewerkend",
+    "Uroloog",
+    "Varkensfokker",
+    "Varkenshouder",
+    "Vastgoedbeheerder geen onderhoud",
+    "Vastgoedbeheerder wel onderhoud",
+    "Vastgoedhandelaar",
+    "Veearts",
+    "Veehandelaar",
+    "Veepedicure",
+    "Veeverloskundige",
+    "Veeverzorger",
+    "Veiligheidsdeskundige",
+    "Veilinghouder",
+    "Veilingmeester",
+    "Verhuizer meewerkend",
+    "Verhuizer niet meewerkend",
+    "Verhuurder attracties / spellen niet meewerkend",
+    "Verhuurder licht en geluidsapparatuur",
+    "Verhuurder machines / machineonderdelen",
+    "Verhuurder van attracties en spellen meewerkend",
+    "Verkeerskundig adviseur",
+    "Verkeersregelaar",
+    "Verkoopadviseur",
+    "Verkooptrainer",
+    "Vertaler",
+    "Vertegenwoordiger niet reizend",
+    "Vertegenwoordiger reizend",
+    "Verzekeringsarts",
+    "Verzekeringsgeneeskundige",
+    "Verzekeringsmakelaar",
+    "Videotheekhouder",
+    "Viroloog",
+    "Visagist",
+    "Visfileerder",
+    "Vishandelaar met verkoopwagen",
+    "Vishandelaar met viskraam",
+    "Viskweker",
+    "Vloerenlegger",
+    "Vlogger",
+    "Voeger",
+    "Vrachtwagenchauffeur internat. excl. laden/ lossen",
+    "Vrachtwagenchauffeur internat. incl. laden/ lossen",
+    "Vrachtwagenchauffeur nationaal excl. laden/ lossen",
+    "Vrachtwagenchauffeur nationaal incl. laden/ lossen",
+    "Wasserij / stomerijhouder bezorgend",
+    "Wasserij / stomerijhouder niet bezorgend",
+    "Webdesigner",
+    "Weerkundige",
+    "Wijkverpleegkundige",
+    "Woninginrichter exclusief stofferen",
+    "Woninginrichter inclusief stofferen",
+    "Woningstoffeerder",
+    "Woningstylist ontwerpend / adviserend",
+    "Woningstylist uitvoerend",
+    "Yogaleraar",
+    "Zadelmaker / tuigmaker",
+    "Zanger",
+    "Zangleraar",
+    "Zeeloods",
+    "Zeevisser",
+    "Zeilmaker",
+    "Zenuwarts",
+    "Zonweringinstallateur",
+    "Zwemleraar"
+  ],
+  "list": {
+    "Commercieel aannemer": {
+      "code": "10040",
+      "name": "Commercieel aannemer"
+    },
+    "Aannemer grond-, weg- en waterbouw": {
+      "code": "10060",
+      "name": "Aannemer grond-, weg- en waterbouw"
+    },
+    "Aannemer bouwbedrijf meewerkend": {
+      "code": "10090",
+      "name": "Aannemer bouwbedrijf meewerkend"
+    },
+    "Aannemer bouwbedrijf niet meewerkend": {
+      "code": "10110",
+      "name": "Aannemer bouwbedrijf niet meewerkend"
+    },
+    "Registeraccountant": {
+      "code": "10150",
+      "name": "Registeraccountant"
+    },
+    "Accountmanager": {
+      "code": "10160",
+      "name": "Accountmanager"
+    },
+    "Acquisiteur": {
+      "code": "10170",
+      "name": "Acquisiteur"
+    },
+    "Acteur": {
+      "code": "10190",
+      "name": "Acteur"
+    },
+    "Actuarieel rekenaar": {
+      "code": "10210",
+      "name": "Actuarieel rekenaar"
+    },
+    "Actuaris": {
+      "code": "10220",
+      "name": "Actuaris"
+    },
+    "Acupuncturist": {
+      "code": "10240",
+      "name": "Acupuncturist"
+    },
+    "Administrateur": {
+      "code": "10270",
+      "name": "Administrateur"
+    },
+    "Agrarisch adviseur": {
+      "code": "10290",
+      "name": "Agrarisch adviseur"
+    },
+    "Assurantieadviseur / verzekeringsadviseur": {
+      "code": "10300",
+      "name": "Assurantieadviseur / verzekeringsadviseur"
+    },
+    "Belastingadviseur": {
+      "code": "10340",
+      "name": "Belastingadviseur"
+    },
+    "Beleggingsadviseur": {
+      "code": "10350",
+      "name": "Beleggingsadviseur"
+    },
+    "Beroepskeuzeadviseur": {
+      "code": "10360",
+      "name": "Beroepskeuzeadviseur"
+    },
+    "Bouwkundig adviseur": {
+      "code": "10370",
+      "name": "Bouwkundig adviseur"
+    },
+    "Verkoopadviseur": {
+      "code": "10380",
+      "name": "Verkoopadviseur"
+    },
+    "Communicatieadviseur": {
+      "code": "10390",
+      "name": "Communicatieadviseur"
+    },
+    "Economisch adviseur": {
+      "code": "10400",
+      "name": "Economisch adviseur"
+    },
+    "Financieel adviseur": {
+      "code": "10410",
+      "name": "Financieel adviseur"
+    },
+    "Hypotheekadviseur": {
+      "code": "10450",
+      "name": "Hypotheekadviseur"
+    },
+    "Inbraakpreventieadviseur": {
+      "code": "10460",
+      "name": "Inbraakpreventieadviseur"
+    },
+    "Inkoper buitenland": {
+      "code": "10470",
+      "name": "Inkoper buitenland"
+    },
+    "Inkoper binnenland": {
+      "code": "10480",
+      "name": "Inkoper binnenland"
+    },
+    "Juridisch adviseur": {
+      "code": "10490",
+      "name": "Juridisch adviseur"
+    },
+    "Adviseur licht / geluid, geen installatie": {
+      "code": "10510",
+      "name": "Adviseur licht / geluid, geen installatie"
+    },
+    "Reclame-adviseur": {
+      "code": "10530",
+      "name": "Reclame-adviseur"
+    },
+    "Medisch adviseur": {
+      "code": "10540",
+      "name": "Medisch adviseur"
+    },
+    "Milieu-adviseur": {
+      "code": "10550",
+      "name": "Milieu-adviseur"
+    },
+    "Organisatie-adviseur": {
+      "code": "10560",
+      "name": "Organisatie-adviseur"
+    },
+    "Personeelsadviseur": {
+      "code": "10580",
+      "name": "Personeelsadviseur"
+    },
+    "Re-integratieadviseur": {
+      "code": "10620",
+      "name": "Re-integratieadviseur"
+    },
+    "Reisadviseur": {
+      "code": "10630",
+      "name": "Reisadviseur"
+    },
+    "Technisch adviseur": {
+      "code": "10640",
+      "name": "Technisch adviseur"
+    },
+    "Financieel adviseur / planner": {
+      "code": "10670",
+      "name": "Financieel adviseur / planner"
+    },
+    "Advocaat": {
+      "code": "10680",
+      "name": "Advocaat"
+    },
+    "Akoepedist / gehoordeskundige": {
+      "code": "10750",
+      "name": "Akoepedist / gehoordeskundige"
+    },
+    "Alfahulp": {
+      "code": "10760",
+      "name": "Alfahulp"
+    },
+    "Allergoloog": {
+      "code": "10830",
+      "name": "Allergoloog"
+    },
+    "Arbeidsanalist": {
+      "code": "10850",
+      "name": "Arbeidsanalist"
+    },
+    "Bacteriologisch analist": {
+      "code": "10860",
+      "name": "Bacteriologisch analist"
+    },
+    "Beleggingsanalist": {
+      "code": "10870",
+      "name": "Beleggingsanalist"
+    },
+    "Biochemisch analist": {
+      "code": "10880",
+      "name": "Biochemisch analist"
+    },
+    "Biologisch analist": {
+      "code": "10890",
+      "name": "Biologisch analist"
+    },
+    "Chemisch / scheikundig analist": {
+      "code": "10900",
+      "name": "Chemisch / scheikundig analist"
+    },
+    "Forensisch analist / onderzoeker": {
+      "code": "10910",
+      "name": "Forensisch analist / onderzoeker"
+    },
+    "Functie-analist": {
+      "code": "10920",
+      "name": "Functie-analist"
+    },
+    "Informatie-analist / data-analist": {
+      "code": "10930",
+      "name": "Informatie-analist / data-analist"
+    },
+    "Systeemanalist / computeranalist": {
+      "code": "10960",
+      "name": "Systeemanalist / computeranalist"
+    },
+    "Anatoom": {
+      "code": "10970",
+      "name": "Anatoom"
+    },
+    "Andragoog": {
+      "code": "10980",
+      "name": "Andragoog"
+    },
+    "Anesthesist": {
+      "code": "10990",
+      "name": "Anesthesist"
+    },
+    "Cardio-anesthesist": {
+      "code": "11000",
+      "name": "Cardio-anesthesist"
+    },
+    "Antenneplaatser, schotel, radio, tv": {
+      "code": "11010",
+      "name": "Antenneplaatser, schotel, radio, tv"
+    },
+    "Antiquair niet restaurerend": {
+      "code": "11020",
+      "name": "Antiquair niet restaurerend"
+    },
+    "Antiquair restaurerend": {
+      "code": "11040",
+      "name": "Antiquair restaurerend"
+    },
+    "Apotheker": {
+      "code": "11070",
+      "name": "Apotheker"
+    },
+    "Archeoloog": {
+      "code": "11090",
+      "name": "Archeoloog"
+    },
+    "Architect": {
+      "code": "11100",
+      "name": "Architect"
+    },
+    "Binnenhuisarchitect": {
+      "code": "11110",
+      "name": "Binnenhuisarchitect"
+    },
+    "Informatiearchitect": {
+      "code": "11120",
+      "name": "Informatiearchitect"
+    },
+    "Tuin- en landschapsarchitect": {
+      "code": "11160",
+      "name": "Tuin- en landschapsarchitect"
+    },
+    "Archivaris": {
+      "code": "11180",
+      "name": "Archivaris"
+    },
+    "Muziekarrangeur": {
+      "code": "11190",
+      "name": "Muziekarrangeur"
+    },
+    "Artdirector niet reclame": {
+      "code": "11200",
+      "name": "Artdirector niet reclame"
+    },
+    "Artdirector reclame": {
+      "code": "11210",
+      "name": "Artdirector reclame"
+    },
+    "Basisarts": {
+      "code": "11260",
+      "name": "Basisarts"
+    },
+    "Bedrijfsarts": {
+      "code": "11270",
+      "name": "Bedrijfsarts"
+    },
+    "Tandtechnicus": {
+      "code": "11290",
+      "name": "Tandtechnicus"
+    },
+    "Huidarts": {
+      "code": "11300",
+      "name": "Huidarts"
+    },
+    "Huisarts": {
+      "code": "11310",
+      "name": "Huisarts"
+    },
+    "Keel-, neus- en oorarts, kno": {
+      "code": "11320",
+      "name": "Keel-, neus- en oorarts, kno"
+    },
+    "Keuringsarts": {
+      "code": "11330",
+      "name": "Keuringsarts"
+    },
+    "Kinderarts": {
+      "code": "11340",
+      "name": "Kinderarts"
+    },
+    "Klinisch chemicus arts": {
+      "code": "11350",
+      "name": "Klinisch chemicus arts"
+    },
+    "Laboratoriumarts": {
+      "code": "11370",
+      "name": "Laboratoriumarts"
+    },
+    "Longarts": {
+      "code": "11380",
+      "name": "Longarts"
+    },
+    "Arts-microbioloog": {
+      "code": "11390",
+      "name": "Arts-microbioloog"
+    },
+    "Mondarts / kaakchirurg": {
+      "code": "11400",
+      "name": "Mondarts / kaakchirurg"
+    },
+    "Oogarts": {
+      "code": "11410",
+      "name": "Oogarts"
+    },
+    "Oorarts / otoloog": {
+      "code": "11420",
+      "name": "Oorarts / otoloog"
+    },
+    "Revalidatiearts": {
+      "code": "11440",
+      "name": "Revalidatiearts"
+    },
+    "Schoolarts": {
+      "code": "11460",
+      "name": "Schoolarts"
+    },
+    "Schooltandarts": {
+      "code": "11470",
+      "name": "Schooltandarts"
+    },
+    "Tandarts": {
+      "code": "11510",
+      "name": "Tandarts"
+    },
+    "Verzekeringsgeneeskundige": {
+      "code": "11530",
+      "name": "Verzekeringsgeneeskundige"
+    },
+    "Artsenbezoeker": {
+      "code": "11540",
+      "name": "Artsenbezoeker"
+    },
+    "Audicien": {
+      "code": "11590",
+      "name": "Audicien"
+    },
+    "Audiometrist": {
+      "code": "11600",
+      "name": "Audiometrist"
+    },
+    "Auditor register IT": {
+      "code": "11610",
+      "name": "Auditor register IT"
+    },
+    "Auteur": {
+      "code": "11620",
+      "name": "Auteur"
+    },
+    "Autobusondernemer ook chauffeur": {
+      "code": "11640",
+      "name": "Autobusondernemer ook chauffeur"
+    },
+    "Autobusondernemer geen chauffeur": {
+      "code": "11650",
+      "name": "Autobusondernemer geen chauffeur"
+    },
+    "Autoglaszetter / autoglashersteller": {
+      "code": "11690",
+      "name": "Autoglaszetter / autoglashersteller"
+    },
+    "Automatiekhouder": {
+      "code": "11700",
+      "name": "Automatiekhouder"
+    },
+    "Autorijschoolhouder": {
+      "code": "11730",
+      "name": "Autorijschoolhouder"
+    },
+    "Autoschadehersteller": {
+      "code": "11750",
+      "name": "Autoschadehersteller"
+    },
+    "Arbo-adviseur": {
+      "code": "11800",
+      "name": "Arbo-adviseur"
+    },
+    "Bacterioloog": {
+      "code": "13010",
+      "name": "Bacterioloog"
+    },
+    "Banketbakker uitsluitend winkelverkoop": {
+      "code": "13050",
+      "name": "Banketbakker uitsluitend winkelverkoop"
+    },
+    "Banketbakker zelf bakkend": {
+      "code": "13060",
+      "name": "Banketbakker zelf bakkend"
+    },
+    "Broodbakker uitsluitend winkelverkoop": {
+      "code": "13120",
+      "name": "Broodbakker uitsluitend winkelverkoop"
+    },
+    "Broodbakker zelf bakkend": {
+      "code": "13130",
+      "name": "Broodbakker zelf bakkend"
+    },
+    "Balletdanser": {
+      "code": "13140",
+      "name": "Balletdanser"
+    },
+    "Ballonvaarder": {
+      "code": "13150",
+      "name": "Ballonvaarder"
+    },
+    "Machinebankwerker": {
+      "code": "13180",
+      "name": "Machinebankwerker"
+    },
+    "Barkeeper": {
+      "code": "13200",
+      "name": "Barkeeper"
+    },
+    "Basaltsteenzetter": {
+      "code": "13210",
+      "name": "Basaltsteenzetter"
+    },
+    "Bedrijfseconoom": {
+      "code": "13220",
+      "name": "Bedrijfseconoom"
+    },
+    "Bedrijfshygiënist": {
+      "code": "13230",
+      "name": "Bedrijfshygiënist"
+    },
+    "Bedrijfskundige": {
+      "code": "13240",
+      "name": "Bedrijfskundige"
+    },
+    "Beeldhouwer": {
+      "code": "13270",
+      "name": "Beeldhouwer"
+    },
+    "Begeleider verstandelijk gehandicapten": {
+      "code": "13280",
+      "name": "Begeleider verstandelijk gehandicapten"
+    },
+    "Begeleider van mensen met beperking": {
+      "code": "13285",
+      "name": "Begeleider van mensen met beperking"
+    },
+    "Begeleider lichamelijk gehandicapten": {
+      "code": "13290",
+      "name": "Begeleider lichamelijk gehandicapten"
+    },
+    "Uitvaartverzorger": {
+      "code": "13300",
+      "name": "Uitvaartverzorger"
+    },
+    "Behanger": {
+      "code": "13340",
+      "name": "Behanger"
+    },
+    "Kantinebeheerder / kantinehouder": {
+      "code": "13370",
+      "name": "Kantinebeheerder / kantinehouder"
+    },
+    "Vastgoedbeheerder geen onderhoud": {
+      "code": "13450",
+      "name": "Vastgoedbeheerder geen onderhoud"
+    },
+    "Vastgoedbeheerder wel onderhoud": {
+      "code": "13460",
+      "name": "Vastgoedbeheerder wel onderhoud"
+    },
+    "Bejaardenverzorger": {
+      "code": "13470",
+      "name": "Bejaardenverzorger"
+    },
+    "Bejaardenwelzijnswerker": {
+      "code": "13480",
+      "name": "Bejaardenwelzijnswerker"
+    },
+    "Arbeidsbemiddelaar": {
+      "code": "13490",
+      "name": "Arbeidsbemiddelaar"
+    },
+    "Bemiddelaar in gastouderschap": {
+      "code": "13510",
+      "name": "Bemiddelaar in gastouderschap"
+    },
+    "Benzinepomphouder bedienend": {
+      "code": "13530",
+      "name": "Benzinepomphouder bedienend"
+    },
+    "Benzinepomphouder niet bedienend": {
+      "code": "13540",
+      "name": "Benzinepomphouder niet bedienend"
+    },
+    "Berger": {
+      "code": "13580",
+      "name": "Berger"
+    },
+    "Betonvlechter / betonijzervlechter": {
+      "code": "13590",
+      "name": "Betonvlechter / betonijzervlechter"
+    },
+    "Betontimmerman": {
+      "code": "13600",
+      "name": "Betontimmerman"
+    },
+    "Betonwerker / betonboorder": {
+      "code": "13630",
+      "name": "Betonwerker / betonboorder"
+    },
+    "Beveiliger / bewaker": {
+      "code": "13640",
+      "name": "Beveiliger / bewaker"
+    },
+    "Bewindvoerder": {
+      "code": "13670",
+      "name": "Bewindvoerder"
+    },
+    "Bijenhouder / imker": {
+      "code": "13690",
+      "name": "Bijenhouder / imker"
+    },
+    "Bioloog": {
+      "code": "13700",
+      "name": "Bioloog"
+    },
+    "Medisch bioloog": {
+      "code": "13710",
+      "name": "Medisch bioloog"
+    },
+    "Biomedicus": {
+      "code": "13720",
+      "name": "Biomedicus"
+    },
+    "Bioscoophouder": {
+      "code": "13730",
+      "name": "Bioscoophouder"
+    },
+    "Bistrohouder": {
+      "code": "13740",
+      "name": "Bistrohouder"
+    },
+    "Bloemist uitsluitend winkelverkoop": {
+      "code": "13830",
+      "name": "Bloemist uitsluitend winkelverkoop"
+    },
+    "Bloemist inclusief inkoop op de veiling": {
+      "code": "13840",
+      "name": "Bloemist inclusief inkoop op de veiling"
+    },
+    "Blokkenlijmer": {
+      "code": "13870",
+      "name": "Blokkenlijmer"
+    },
+    "Bodemonderzoeker, inspectie en advies": {
+      "code": "13890",
+      "name": "Bodemonderzoeker, inspectie en advies"
+    },
+    "Boekbinder": {
+      "code": "13900",
+      "name": "Boekbinder"
+    },
+    "Boekdrukker": {
+      "code": "13910",
+      "name": "Boekdrukker"
+    },
+    "Boekhouder": {
+      "code": "13920",
+      "name": "Boekhouder"
+    },
+    "Bontwerker": {
+      "code": "13950",
+      "name": "Bontwerker"
+    },
+    "Boomgaardhouder": {
+      "code": "13960",
+      "name": "Boomgaardhouder"
+    },
+    "Boordwerktuigkundige": {
+      "code": "13970",
+      "name": "Boordwerktuigkundige"
+    },
+    "Bosbouwer": {
+      "code": "14000",
+      "name": "Bosbouwer"
+    },
+    "Bosbouwkundige": {
+      "code": "14010",
+      "name": "Bosbouwkundige"
+    },
+    "Boswachter": {
+      "code": "14020",
+      "name": "Boswachter"
+    },
+    "Bouwkundige bureauwerk, beperkt toezichthoudend": {
+      "code": "14060",
+      "name": "Bouwkundige bureauwerk, beperkt toezichthoudend"
+    },
+    "Bouwkundige meewerkend": {
+      "code": "14070",
+      "name": "Bouwkundige meewerkend"
+    },
+    "Bouwkundige toezichthoudend, beperkt meewerkend": {
+      "code": "14090",
+      "name": "Bouwkundige toezichthoudend, beperkt meewerkend"
+    },
+    "Broodjeszaakhouder / eigenaar lunchroom": {
+      "code": "14130",
+      "name": "Broodjeszaakhouder / eigenaar lunchroom"
+    },
+    "Bungalowparkhouder": {
+      "code": "14140",
+      "name": "Bungalowparkhouder"
+    },
+    "Barista": {
+      "code": "14200",
+      "name": "Barista"
+    },
+    "Cabaretier / conferencier": {
+      "code": "15010",
+      "name": "Cabaretier / conferencier"
+    },
+    "Caféhouder": {
+      "code": "15020",
+      "name": "Caféhouder"
+    },
+    "Café-restauranthouder": {
+      "code": "15030",
+      "name": "Café-restauranthouder"
+    },
+    "Calculator": {
+      "code": "15050",
+      "name": "Calculator"
+    },
+    "Cameraman": {
+      "code": "15060",
+      "name": "Cameraman"
+    },
+    "Cameraman alleen studiowerk": {
+      "code": "15080",
+      "name": "Cameraman alleen studiowerk"
+    },
+    "Campinghouder niet meewerkend": {
+      "code": "15100",
+      "name": "Campinghouder niet meewerkend"
+    },
+    "Campinghouder meewerkend": {
+      "code": "15110",
+      "name": "Campinghouder meewerkend"
+    },
+    "Cardioloog": {
+      "code": "15120",
+      "name": "Cardioloog"
+    },
+    "Cargadoor": {
+      "code": "15140",
+      "name": "Cargadoor"
+    },
+    "Carrosseriebouwer": {
+      "code": "15160",
+      "name": "Carrosseriebouwer"
+    },
+    "Cateraar meewerkend": {
+      "code": "15170",
+      "name": "Cateraar meewerkend"
+    },
+    "Cateraar niet meewerkend": {
+      "code": "15180",
+      "name": "Cateraar niet meewerkend"
+    },
+    "Autobuschauffeur": {
+      "code": "15200",
+      "name": "Autobuschauffeur"
+    },
+    "Bestelautochauffeur": {
+      "code": "15220",
+      "name": "Bestelautochauffeur"
+    },
+    "Expeditiechauffeur": {
+      "code": "15230",
+      "name": "Expeditiechauffeur"
+    },
+    "Heftruckchauffeur": {
+      "code": "15240",
+      "name": "Heftruckchauffeur"
+    },
+    "Chauffeur particulier / privé": {
+      "code": "15260",
+      "name": "Chauffeur particulier / privé"
+    },
+    "Taxichauffeur": {
+      "code": "15270",
+      "name": "Taxichauffeur"
+    },
+    "Vrachtwagenchauffeur internat. excl. laden/ lossen": {
+      "code": "15330",
+      "name": "Vrachtwagenchauffeur internat. excl. laden/ lossen"
+    },
+    "Vrachtwagenchauffeur internat. incl. laden/ lossen": {
+      "code": "15340",
+      "name": "Vrachtwagenchauffeur internat. incl. laden/ lossen"
+    },
+    "Vrachtwagenchauffeur nationaal excl. laden/ lossen": {
+      "code": "15360",
+      "name": "Vrachtwagenchauffeur nationaal excl. laden/ lossen"
+    },
+    "Vrachtwagenchauffeur nationaal incl. laden/ lossen": {
+      "code": "15370",
+      "name": "Vrachtwagenchauffeur nationaal incl. laden/ lossen"
+    },
+    "Biochemicus": {
+      "code": "15400",
+      "name": "Biochemicus"
+    },
+    "Fysisch chemicus": {
+      "code": "15410",
+      "name": "Fysisch chemicus"
+    },
+    "Chemicus niet ontplofbare stoffen": {
+      "code": "15420",
+      "name": "Chemicus niet ontplofbare stoffen"
+    },
+    "Chemicus ontplofbare stoffen": {
+      "code": "15430",
+      "name": "Chemicus ontplofbare stoffen"
+    },
+    "Chiropodist": {
+      "code": "15440",
+      "name": "Chiropodist"
+    },
+    "Chiropractor": {
+      "code": "15450",
+      "name": "Chiropractor"
+    },
+    "Cardiopulmonaal chirurg": {
+      "code": "15470",
+      "name": "Cardiopulmonaal chirurg"
+    },
+    "Hartchirurg": {
+      "code": "15480",
+      "name": "Hartchirurg"
+    },
+    "Kaakchirurg": {
+      "code": "15490",
+      "name": "Kaakchirurg"
+    },
+    "Neurochirurg": {
+      "code": "15500",
+      "name": "Neurochirurg"
+    },
+    "Orthopedisch chirurg": {
+      "code": "15510",
+      "name": "Orthopedisch chirurg"
+    },
+    "Plastisch chirurg": {
+      "code": "15520",
+      "name": "Plastisch chirurg"
+    },
+    "Choreograaf": {
+      "code": "15540",
+      "name": "Choreograaf"
+    },
+    "Cineast": {
+      "code": "15550",
+      "name": "Cineast"
+    },
+    "Classificeerder": {
+      "code": "15560",
+      "name": "Classificeerder"
+    },
+    "Columnist": {
+      "code": "15680",
+      "name": "Columnist"
+    },
+    "Nieuwscommentator": {
+      "code": "15700",
+      "name": "Nieuwscommentator"
+    },
+    "Commissionair": {
+      "code": "15710",
+      "name": "Commissionair"
+    },
+    "Componist": {
+      "code": "15760",
+      "name": "Componist"
+    },
+    "Conciërge": {
+      "code": "15770",
+      "name": "Conciërge"
+    },
+    "Confectieatelierhouder": {
+      "code": "15790",
+      "name": "Confectieatelierhouder"
+    },
+    "Confectionair": {
+      "code": "15800",
+      "name": "Confectionair"
+    },
+    "Conrector": {
+      "code": "15820",
+      "name": "Conrector"
+    },
+    "Constructeur": {
+      "code": "15830",
+      "name": "Constructeur"
+    },
+    "Constructiebankwerker": {
+      "code": "15840",
+      "name": "Constructiebankwerker"
+    },
+    "Constructiewerker": {
+      "code": "15850",
+      "name": "Constructiewerker"
+    },
+    "Administratie-adviseur": {
+      "code": "15860",
+      "name": "Administratie-adviseur"
+    },
+    "Business Intelligence consultant": {
+      "code": "15960",
+      "name": "Business Intelligence consultant"
+    },
+    "Horeca-adviseur": {
+      "code": "16000",
+      "name": "Horeca-adviseur"
+    },
+    "Consultant IT / ICT": {
+      "code": "16020",
+      "name": "Consultant IT / ICT"
+    },
+    "Managementconsultant": {
+      "code": "16050",
+      "name": "Managementconsultant"
+    },
+    "Asbestcontroleur / asbestinspecteur": {
+      "code": "16080",
+      "name": "Asbestcontroleur / asbestinspecteur"
+    },
+    "Controller": {
+      "code": "16090",
+      "name": "Controller"
+    },
+    "Copywriter": {
+      "code": "16100",
+      "name": "Copywriter"
+    },
+    "Couturier": {
+      "code": "16140",
+      "name": "Couturier"
+    },
+    "Crècheleider": {
+      "code": "16150",
+      "name": "Crècheleider"
+    },
+    "Cursusbegeleider": {
+      "code": "16170",
+      "name": "Cursusbegeleider"
+    },
+    "Dakdekker": {
+      "code": "17010",
+      "name": "Dakdekker"
+    },
+    "Leidekker": {
+      "code": "17020",
+      "name": "Leidekker"
+    },
+    "Rietdekker": {
+      "code": "17040",
+      "name": "Rietdekker"
+    },
+    "Danser": {
+      "code": "17060",
+      "name": "Danser"
+    },
+    "Dansschoolhouder": {
+      "code": "17070",
+      "name": "Dansschoolhouder"
+    },
+    "Decorateur": {
+      "code": "17080",
+      "name": "Decorateur"
+    },
+    "Decorateur aardewerk": {
+      "code": "17090",
+      "name": "Decorateur aardewerk"
+    },
+    "Decorbouwer": {
+      "code": "17110",
+      "name": "Decorbouwer"
+    },
+    "Demonstratrice": {
+      "code": "17120",
+      "name": "Demonstratrice"
+    },
+    "Dermatoloog": {
+      "code": "17130",
+      "name": "Dermatoloog"
+    },
+    "Arbeidsdeskundige": {
+      "code": "17140",
+      "name": "Arbeidsdeskundige"
+    },
+    "Marketeer / online marketeer": {
+      "code": "17180",
+      "name": "Marketeer / online marketeer"
+    },
+    "Detective": {
+      "code": "17190",
+      "name": "Detective"
+    },
+    "Deurwaarder": {
+      "code": "17200",
+      "name": "Deurwaarder"
+    },
+    "Diamantair alleen winkelier": {
+      "code": "17220",
+      "name": "Diamantair alleen winkelier"
+    },
+    "Diamantbewerker": {
+      "code": "17230",
+      "name": "Diamantbewerker"
+    },
+    "Dichter": {
+      "code": "17240",
+      "name": "Dichter"
+    },
+    "Agrarisch dienstverlener": {
+      "code": "17250",
+      "name": "Agrarisch dienstverlener"
+    },
+    "Dierenarts huisdieren": {
+      "code": "17290",
+      "name": "Dierenarts huisdieren"
+    },
+    "Paardentandarts": {
+      "code": "17330",
+      "name": "Paardentandarts"
+    },
+    "Paardentrainer": {
+      "code": "17340",
+      "name": "Paardentrainer"
+    },
+    "Veearts": {
+      "code": "17350",
+      "name": "Veearts"
+    },
+    "Dierenasielhouder": {
+      "code": "17360",
+      "name": "Dierenasielhouder"
+    },
+    "Dierenpensionhouder": {
+      "code": "17370",
+      "name": "Dierenpensionhouder"
+    },
+    "Rundveehouder anders dan melkvee": {
+      "code": "17372",
+      "name": "Rundveehouder anders dan melkvee"
+    },
+    "Varkenshouder": {
+      "code": "17373",
+      "name": "Varkenshouder"
+    },
+    "Diëtist": {
+      "code": "17410",
+      "name": "Diëtist"
+    },
+    "Commercieel directeur": {
+      "code": "17460",
+      "name": "Commercieel directeur"
+    },
+    "Financieel directeur": {
+      "code": "17461",
+      "name": "Financieel directeur"
+    },
+    "Operationeel directeur": {
+      "code": "17462",
+      "name": "Operationeel directeur"
+    },
+    "Technisch directeur": {
+      "code": "17550",
+      "name": "Technisch directeur"
+    },
+    "Dirigent": {
+      "code": "17590",
+      "name": "Dirigent"
+    },
+    "Diskjockey": {
+      "code": "17600",
+      "name": "Diskjockey"
+    },
+    "Discotheekhouder": {
+      "code": "17610",
+      "name": "Discotheekhouder"
+    },
+    "Distillateur": {
+      "code": "17620",
+      "name": "Distillateur"
+    },
+    "Dominee": {
+      "code": "17730",
+      "name": "Dominee"
+    },
+    "Doventolk": {
+      "code": "17750",
+      "name": "Doventolk"
+    },
+    "Dressman": {
+      "code": "17760",
+      "name": "Dressman"
+    },
+    "Drogist": {
+      "code": "17770",
+      "name": "Drogist"
+    },
+    "Drukker meewerkend": {
+      "code": "17810",
+      "name": "Drukker meewerkend"
+    },
+    "Drukker niet meewerkend": {
+      "code": "17820",
+      "name": "Drukker niet meewerkend"
+    },
+    "DTP'er grafisch": {
+      "code": "17840",
+      "name": "DTP'er grafisch"
+    },
+    "Duiker": {
+      "code": "17860",
+      "name": "Duiker"
+    },
+    "Econometrist": {
+      "code": "19010",
+      "name": "Econometrist"
+    },
+    "Econoom": {
+      "code": "19020",
+      "name": "Econoom"
+    },
+    "Edelsmid": {
+      "code": "19030",
+      "name": "Edelsmid"
+    },
+    "Editor beeld en geluid": {
+      "code": "19040",
+      "name": "Editor beeld en geluid"
+    },
+    "Eigenaar winkel audiovisuele apparatuur": {
+      "code": "19070",
+      "name": "Eigenaar winkel audiovisuele apparatuur"
+    },
+    "Eigenaar babyartikelenwinkel": {
+      "code": "19100",
+      "name": "Eigenaar babyartikelenwinkel"
+    },
+    "Eigenaar callcenter": {
+      "code": "19150",
+      "name": "Eigenaar callcenter"
+    },
+    "Copyshophouder": {
+      "code": "19170",
+      "name": "Copyshophouder"
+    },
+    "Eigenaar delicatessenwinkel": {
+      "code": "19190",
+      "name": "Eigenaar delicatessenwinkel"
+    },
+    "Eigenaar uitzendbureau / detacheringsbureau": {
+      "code": "19200",
+      "name": "Eigenaar uitzendbureau / detacheringsbureau"
+    },
+    "Eigenaar hobby-artikelenwinkel": {
+      "code": "19310",
+      "name": "Eigenaar hobby-artikelenwinkel"
+    },
+    "Eigenaar hondenuitlaatservice": {
+      "code": "19320",
+      "name": "Eigenaar hondenuitlaatservice"
+    },
+    "Eigenaar kringloopwinkel": {
+      "code": "19400",
+      "name": "Eigenaar kringloopwinkel"
+    },
+    "Eigenaar lingeriewinkel": {
+      "code": "19420",
+      "name": "Eigenaar lingeriewinkel"
+    },
+    "Eigenaar modellenbureau": {
+      "code": "19480",
+      "name": "Eigenaar modellenbureau"
+    },
+    "Eigenaar computerwinkel / softwarewinkel": {
+      "code": "19550",
+      "name": "Eigenaar computerwinkel / softwarewinkel"
+    },
+    "Eigenaar relatiebemiddelingsbureau": {
+      "code": "19560",
+      "name": "Eigenaar relatiebemiddelingsbureau"
+    },
+    "Eigenaar snoepwinkel": {
+      "code": "19610",
+      "name": "Eigenaar snoepwinkel"
+    },
+    "Eigenaar telecommunicatie- / -apparatuurwinkel": {
+      "code": "19640",
+      "name": "Eigenaar telecommunicatie- / -apparatuurwinkel"
+    },
+    "Eigenaar tuincentrum": {
+      "code": "19650",
+      "name": "Eigenaar tuincentrum"
+    },
+    "Elektricien hoogspanning": {
+      "code": "19770",
+      "name": "Elektricien hoogspanning"
+    },
+    "Elektricien laagspanning": {
+      "code": "19780",
+      "name": "Elektricien laagspanning"
+    },
+    "Elektronicus": {
+      "code": "19810",
+      "name": "Elektronicus"
+    },
+    "Embryoloog": {
+      "code": "19820",
+      "name": "Embryoloog"
+    },
+    "Endocrinoloog": {
+      "code": "19830",
+      "name": "Endocrinoloog"
+    },
+    "Elektromechanisch / instrumentatie-engineer": {
+      "code": "19850",
+      "name": "Elektromechanisch / instrumentatie-engineer"
+    },
+    "Entertainer": {
+      "code": "19860",
+      "name": "Entertainer"
+    },
+    "Epidemioloog": {
+      "code": "19870",
+      "name": "Epidemioloog"
+    },
+    "Erfelijkheidsdeskundige": {
+      "code": "19880",
+      "name": "Erfelijkheidsdeskundige"
+    },
+    "Ergonoom": {
+      "code": "19890",
+      "name": "Ergonoom"
+    },
+    "Ergotherapeut": {
+      "code": "19900",
+      "name": "Ergotherapeut"
+    },
+    "Essayist": {
+      "code": "19910",
+      "name": "Essayist"
+    },
+    "Etaleur": {
+      "code": "19920",
+      "name": "Etaleur"
+    },
+    "Etymoloog": {
+      "code": "19930",
+      "name": "Etymoloog"
+    },
+    "Eigenaar expeditiebedrijf": {
+      "code": "19980",
+      "name": "Eigenaar expeditiebedrijf"
+    },
+    "Adviseur zonnepanelen geen installatie": {
+      "code": "20030",
+      "name": "Adviseur zonnepanelen geen installatie"
+    },
+    "Adviseur ruimtelijke ordening en planologie": {
+      "code": "20040",
+      "name": "Adviseur ruimtelijke ordening en planologie"
+    },
+    "Eigenaar afslankstudio": {
+      "code": "20050",
+      "name": "Eigenaar afslankstudio"
+    },
+    "Eigenaar afvalverwerkingsbedrijf": {
+      "code": "20060",
+      "name": "Eigenaar afvalverwerkingsbedrijf"
+    },
+    "Attractieverkoper": {
+      "code": "20070",
+      "name": "Attractieverkoper"
+    },
+    "Motorrijschoolhouder": {
+      "code": "20110",
+      "name": "Motorrijschoolhouder"
+    },
+    "Eigenaar autowasstraat niet meewerkend": {
+      "code": "20130",
+      "name": "Eigenaar autowasstraat niet meewerkend"
+    },
+    "Eigenaar bakstudio / kookstudio": {
+      "code": "20140",
+      "name": "Eigenaar bakstudio / kookstudio"
+    },
+    "Beveiligingsadviseur": {
+      "code": "20180",
+      "name": "Beveiligingsadviseur"
+    },
+    "Eigenaar bezorgdienst diepvriesart niet meewerkend": {
+      "code": "20200",
+      "name": "Eigenaar bezorgdienst diepvriesart niet meewerkend"
+    },
+    "Eigenaar indoorspeeltuin": {
+      "code": "20430",
+      "name": "Eigenaar indoorspeeltuin"
+    },
+    "Eigenaar kapsalon niet meewerkend": {
+      "code": "20460",
+      "name": "Eigenaar kapsalon niet meewerkend"
+    },
+    "Kermisexploitant": {
+      "code": "20480",
+      "name": "Kermisexploitant"
+    },
+    "Eigenaar kinderdagverblijf niet meewerkend": {
+      "code": "20490",
+      "name": "Eigenaar kinderdagverblijf niet meewerkend"
+    },
+    "Eigenaar koffiezaak": {
+      "code": "20530",
+      "name": "Eigenaar koffiezaak"
+    },
+    "Eigenaar leasebedrijf": {
+      "code": "20560",
+      "name": "Eigenaar leasebedrijf"
+    },
+    "Eigenaar maaltijdbezorgservice niet meewerkend": {
+      "code": "20570",
+      "name": "Eigenaar maaltijdbezorgservice niet meewerkend"
+    },
+    "Eigenaar bureau meet- en regeltechniek": {
+      "code": "20600",
+      "name": "Eigenaar bureau meet- en regeltechniek"
+    },
+    "Metaalconstructeur": {
+      "code": "20620",
+      "name": "Metaalconstructeur"
+    },
+    "Eigenaar multifunctioneel centrum": {
+      "code": "20640",
+      "name": "Eigenaar multifunctioneel centrum"
+    },
+    "Natuursteenhandelaar": {
+      "code": "20650",
+      "name": "Natuursteenhandelaar"
+    },
+    "Buitensportinstructeur outdoor": {
+      "code": "20680",
+      "name": "Buitensportinstructeur outdoor"
+    },
+    "Eigenaar parkeergelegenheid": {
+      "code": "20690",
+      "name": "Eigenaar parkeergelegenheid"
+    },
+    "Eigenaar printplaatassemblagebedrijf": {
+      "code": "20730",
+      "name": "Eigenaar printplaatassemblagebedrijf"
+    },
+    "Eigenaar bedrijf in reclame/belettering niet meew.": {
+      "code": "20760",
+      "name": "Eigenaar bedrijf in reclame/belettering niet meew."
+    },
+    "Eigenaar recyclingbedrijf": {
+      "code": "20780",
+      "name": "Eigenaar recyclingbedrijf"
+    },
+    "Eigenaar sauna / zonnebank / wellnesscentrum": {
+      "code": "20840",
+      "name": "Eigenaar sauna / zonnebank / wellnesscentrum"
+    },
+    "Eigenaar schildersbedrijf niet meewerkend": {
+      "code": "20850",
+      "name": "Eigenaar schildersbedrijf niet meewerkend"
+    },
+    "Eigenaar schoonmaakbedrijf niet meewerkend": {
+      "code": "20880",
+      "name": "Eigenaar schoonmaakbedrijf niet meewerkend"
+    },
+    "Spackspuiter": {
+      "code": "20900",
+      "name": "Spackspuiter"
+    },
+    "Sportschoolhouder geen instructeur": {
+      "code": "20920",
+      "name": "Sportschoolhouder geen instructeur"
+    },
+    "Eigenaar stukadoorsbedrijf niet meewerkend": {
+      "code": "20940",
+      "name": "Eigenaar stukadoorsbedrijf niet meewerkend"
+    },
+    "Eigenaar timmerbedrijf niet meewerkend": {
+      "code": "20990",
+      "name": "Eigenaar timmerbedrijf niet meewerkend"
+    },
+    "Verhuurder van attracties en spellen meewerkend": {
+      "code": "21050",
+      "name": "Verhuurder van attracties en spellen meewerkend"
+    },
+    "Verhuurder attracties / spellen niet meewerkend": {
+      "code": "21060",
+      "name": "Verhuurder attracties / spellen niet meewerkend"
+    },
+    "Landbouwmachineverhuurder": {
+      "code": "21090",
+      "name": "Landbouwmachineverhuurder"
+    },
+    "Tentenverhuurder meewerkend": {
+      "code": "21100",
+      "name": "Tentenverhuurder meewerkend"
+    },
+    "Tentenverhuurder niet meewerkend": {
+      "code": "21110",
+      "name": "Tentenverhuurder niet meewerkend"
+    },
+    "Verkeerskundig adviseur": {
+      "code": "21120",
+      "name": "Verkeerskundig adviseur"
+    },
+    "Eigenaar webwinkel exclusief orderverwerking": {
+      "code": "21210",
+      "name": "Eigenaar webwinkel exclusief orderverwerking"
+    },
+    "Eigenaar webwinkel inclusief orderverwerking": {
+      "code": "21220",
+      "name": "Eigenaar webwinkel inclusief orderverwerking"
+    },
+    "Eigenaar woonaccessoirewinkel": {
+      "code": "21230",
+      "name": "Eigenaar woonaccessoirewinkel"
+    },
+    "Exporteur / importeur reizend": {
+      "code": "21290",
+      "name": "Exporteur / importeur reizend"
+    },
+    "Exporteur / importeur niet reizend": {
+      "code": "21330",
+      "name": "Exporteur / importeur niet reizend"
+    },
+    "Eigenaar botenstalling": {
+      "code": "21500",
+      "name": "Eigenaar botenstalling"
+    },
+    "Eigenaar caravanstalling": {
+      "code": "21510",
+      "name": "Eigenaar caravanstalling"
+    },
+    "Farmaceut": {
+      "code": "23020",
+      "name": "Farmaceut"
+    },
+    "Farmacoloog": {
+      "code": "23030",
+      "name": "Farmacoloog"
+    },
+    "Fietsenmaker / fietsenreparateur": {
+      "code": "23040",
+      "name": "Fietsenmaker / fietsenreparateur"
+    },
+    "Filmer geen studiowerk": {
+      "code": "23070",
+      "name": "Filmer geen studiowerk"
+    },
+    "Filmproducent / filmregisseur": {
+      "code": "23090",
+      "name": "Filmproducent / filmregisseur"
+    },
+    "Fiscalist": {
+      "code": "23110",
+      "name": "Fiscalist"
+    },
+    "Fitnessinstructeur": {
+      "code": "23130",
+      "name": "Fitnessinstructeur"
+    },
+    "Fleboloog": {
+      "code": "23150",
+      "name": "Fleboloog"
+    },
+    "Hondenfokker": {
+      "code": "23180",
+      "name": "Hondenfokker"
+    },
+    "Koeienfokker": {
+      "code": "23200",
+      "name": "Koeienfokker"
+    },
+    "Konijnenfokker": {
+      "code": "23210",
+      "name": "Konijnenfokker"
+    },
+    "Paardenfokker": {
+      "code": "23240",
+      "name": "Paardenfokker"
+    },
+    "Varkensfokker": {
+      "code": "23250",
+      "name": "Varkensfokker"
+    },
+    "Eendenfokker": {
+      "code": "23260",
+      "name": "Eendenfokker"
+    },
+    "Geitenfokker": {
+      "code": "23270",
+      "name": "Geitenfokker"
+    },
+    "Pelsdierenfokker": {
+      "code": "23320",
+      "name": "Pelsdierenfokker"
+    },
+    "Pluimveefokker": {
+      "code": "23330",
+      "name": "Pluimveefokker"
+    },
+    "Schapenfokker": {
+      "code": "23350",
+      "name": "Schapenfokker"
+    },
+    "Kalkoenfokker": {
+      "code": "23370",
+      "name": "Kalkoenfokker"
+    },
+    "Fotograaf op locatie": {
+      "code": "23410",
+      "name": "Fotograaf op locatie"
+    },
+    "Persfotograaf binnenland": {
+      "code": "23430",
+      "name": "Persfotograaf binnenland"
+    },
+    "Persfotograaf buitenland": {
+      "code": "23440",
+      "name": "Persfotograaf buitenland"
+    },
+    "Fotograaf winkelier / studio": {
+      "code": "23490",
+      "name": "Fotograaf winkelier / studio"
+    },
+    "Fotolaborant / foto-ontwikkelaar": {
+      "code": "23510",
+      "name": "Fotolaborant / foto-ontwikkelaar"
+    },
+    "Fotomodel": {
+      "code": "23520",
+      "name": "Fotomodel"
+    },
+    "Fysicus": {
+      "code": "23540",
+      "name": "Fysicus"
+    },
+    "Fysioloog": {
+      "code": "23550",
+      "name": "Fysioloog"
+    },
+    "Galvaniseur": {
+      "code": "25010",
+      "name": "Galvaniseur"
+    },
+    "Game designer": {
+      "code": "25020",
+      "name": "Game designer"
+    },
+    "Garagehouder meewerkend": {
+      "code": "25100",
+      "name": "Garagehouder meewerkend"
+    },
+    "Garagehouder niet meewerkend": {
+      "code": "25120",
+      "name": "Garagehouder niet meewerkend"
+    },
+    "Gastouder": {
+      "code": "25170",
+      "name": "Gastouder"
+    },
+    "Gastro-enteroloog": {
+      "code": "25180",
+      "name": "Gastro-enteroloog"
+    },
+    "Gastvrouw / gastheer": {
+      "code": "25190",
+      "name": "Gastvrouw / gastheer"
+    },
+    "Pastoor": {
+      "code": "25200",
+      "name": "Pastoor"
+    },
+    "Nucleair geneeskundige": {
+      "code": "25210",
+      "name": "Nucleair geneeskundige"
+    },
+    "Geneticus": {
+      "code": "25220",
+      "name": "Geneticus"
+    },
+    "Geofysicus": {
+      "code": "25230",
+      "name": "Geofysicus"
+    },
+    "Geoloog": {
+      "code": "25240",
+      "name": "Geoloog"
+    },
+    "Gereedschapsmaker": {
+      "code": "25260",
+      "name": "Gereedschapsmaker"
+    },
+    "Geriater": {
+      "code": "25270",
+      "name": "Geriater"
+    },
+    "Gestalttherapeut": {
+      "code": "25280",
+      "name": "Gestalttherapeut"
+    },
+    "Gevelreiniger": {
+      "code": "25290",
+      "name": "Gevelreiniger"
+    },
+    "Gezagvoerder luchtvaart": {
+      "code": "25310",
+      "name": "Gezagvoerder luchtvaart"
+    },
+    "Gezinshulp": {
+      "code": "25330",
+      "name": "Gezinshulp"
+    },
+    "Gezondheidsvoorlichter": {
+      "code": "25340",
+      "name": "Gezondheidsvoorlichter"
+    },
+    "Glasblazer": {
+      "code": "25350",
+      "name": "Glasblazer"
+    },
+    "Glastuinder": {
+      "code": "25370",
+      "name": "Glastuinder"
+    },
+    "Glaszetter kassenbouw": {
+      "code": "25380",
+      "name": "Glaszetter kassenbouw"
+    },
+    "Glaszetter geen kassenbouw": {
+      "code": "25390",
+      "name": "Glaszetter geen kassenbouw"
+    },
+    "Glazenwasser met liftbak": {
+      "code": "25400",
+      "name": "Glazenwasser met liftbak"
+    },
+    "Glazenwasser met ladder / telescoopstang": {
+      "code": "25410",
+      "name": "Glazenwasser met ladder / telescoopstang"
+    },
+    "Greenkeeper": {
+      "code": "25420",
+      "name": "Greenkeeper"
+    },
+    "Graficus": {
+      "code": "25430",
+      "name": "Graficus"
+    },
+    "Granietwerker": {
+      "code": "25440",
+      "name": "Granietwerker"
+    },
+    "Graveur": {
+      "code": "25450",
+      "name": "Graveur"
+    },
+    "Griendhakker": {
+      "code": "25460",
+      "name": "Griendhakker"
+    },
+    "Grimeur": {
+      "code": "25470",
+      "name": "Grimeur"
+    },
+    "Gritstraler": {
+      "code": "25480",
+      "name": "Gritstraler"
+    },
+    "Groenteman": {
+      "code": "25500",
+      "name": "Groenteman"
+    },
+    "Grondwerker geen wegenbouw": {
+      "code": "25510",
+      "name": "Grondwerker geen wegenbouw"
+    },
+    "Grondwerker ook wegenbouw": {
+      "code": "25520",
+      "name": "Grondwerker ook wegenbouw"
+    },
+    "Grondwerktuigkundige": {
+      "code": "25530",
+      "name": "Grondwerktuigkundige"
+    },
+    "Groothandelaar in cosmetica en parfumerieën": {
+      "code": "25540",
+      "name": "Groothandelaar in cosmetica en parfumerieën"
+    },
+    "Groothandelaar in kappersbenodigdheden": {
+      "code": "25550",
+      "name": "Groothandelaar in kappersbenodigdheden"
+    },
+    "Groothandelaar in koffie/ thee/ cacao/ specerijen": {
+      "code": "25560",
+      "name": "Groothandelaar in koffie/ thee/ cacao/ specerijen"
+    },
+    "Groothandelaar in baby- en kinderartikelen": {
+      "code": "25580",
+      "name": "Groothandelaar in baby- en kinderartikelen"
+    },
+    "Groothandelaar in bloemen en planten": {
+      "code": "25600",
+      "name": "Groothandelaar in bloemen en planten"
+    },
+    "Groothandelaar in dierenverzorgingsproduct bezorg.": {
+      "code": "25610",
+      "name": "Groothandelaar in dierenverzorgingsproduct bezorg."
+    },
+    "Groothand.in dierenverzorgingsproduct niet bezorg.": {
+      "code": "25620",
+      "name": "Groothand.in dierenverzorgingsproduct niet bezorg."
+    },
+    "Groothandelaar in drank": {
+      "code": "25630",
+      "name": "Groothandelaar in drank"
+    },
+    "Groothandelaar in elektronica": {
+      "code": "25640",
+      "name": "Groothandelaar in elektronica"
+    },
+    "Groothandelaar in emballage / pallets": {
+      "code": "25650",
+      "name": "Groothandelaar in emballage / pallets"
+    },
+    "Groothandelaar in food artikelen": {
+      "code": "25660",
+      "name": "Groothandelaar in food artikelen"
+    },
+    "Groothandelaar in verf": {
+      "code": "25680",
+      "name": "Groothandelaar in verf"
+    },
+    "Groothandelaar in stoffen": {
+      "code": "25690",
+      "name": "Groothandelaar in stoffen"
+    },
+    "Groothandelaar in kunststof materialen": {
+      "code": "25700",
+      "name": "Groothandelaar in kunststof materialen"
+    },
+    "Groothandelaar in meubelen": {
+      "code": "25710",
+      "name": "Groothandelaar in meubelen"
+    },
+    "Groothandelaar in motoren / machines": {
+      "code": "25720",
+      "name": "Groothandelaar in motoren / machines"
+    },
+    "Groothandelaar in non-food artikelen": {
+      "code": "25740",
+      "name": "Groothandelaar in non-food artikelen"
+    },
+    "Groothandelaar in fietsen / brommers": {
+      "code": "25750",
+      "name": "Groothandelaar in fietsen / brommers"
+    },
+    "Groothandelaar in verlichting en armaturen": {
+      "code": "25770",
+      "name": "Groothandelaar in verlichting en armaturen"
+    },
+    "Groothandelaar in verpakkingsmaterialen": {
+      "code": "25780",
+      "name": "Groothandelaar in verpakkingsmaterialen"
+    },
+    "Groothandelaar in vis": {
+      "code": "25790",
+      "name": "Groothandelaar in vis"
+    },
+    "Groothandelaar in vlees en vleeswaren": {
+      "code": "25800",
+      "name": "Groothandelaar in vlees en vleeswaren"
+    },
+    "Groothandelaar in zuivel": {
+      "code": "25810",
+      "name": "Groothandelaar in zuivel"
+    },
+    "Gynaecoloog": {
+      "code": "25830",
+      "name": "Gynaecoloog"
+    },
+    "Groothandelaar in kleding": {
+      "code": "25910",
+      "name": "Groothandelaar in kleding"
+    },
+    "Groothandelaar in aardappelen": {
+      "code": "27020",
+      "name": "Groothandelaar in aardappelen"
+    },
+    "Eigenaar aardewerkwinkel / keramiekwinkel": {
+      "code": "27030",
+      "name": "Eigenaar aardewerkwinkel / keramiekwinkel"
+    },
+    "Eigenaar auto-accessoirewinkel": {
+      "code": "27100",
+      "name": "Eigenaar auto-accessoirewinkel"
+    },
+    "Groothandelaar in automaterialen en -onderdelen": {
+      "code": "27110",
+      "name": "Groothandelaar in automaterialen en -onderdelen"
+    },
+    "Autohandelaar zonder showroom": {
+      "code": "27130",
+      "name": "Autohandelaar zonder showroom"
+    },
+    "Autohandelaar met showroom": {
+      "code": "27140",
+      "name": "Autohandelaar met showroom"
+    },
+    "Groothandelaar in bakkerijgrondstoffen": {
+      "code": "27190",
+      "name": "Groothandelaar in bakkerijgrondstoffen"
+    },
+    "Bandenhandelaar": {
+      "code": "27210",
+      "name": "Bandenhandelaar"
+    },
+    "Groothandelaar in bijouterieën en galanterieën": {
+      "code": "27300",
+      "name": "Groothandelaar in bijouterieën en galanterieën"
+    },
+    "Eigenaar bijouterieënwinkel / galanterieënwinkel": {
+      "code": "27310",
+      "name": "Eigenaar bijouterieënwinkel / galanterieënwinkel"
+    },
+    "Eigenaar boeken en tijdschriftenwinkel": {
+      "code": "27380",
+      "name": "Eigenaar boeken en tijdschriftenwinkel"
+    },
+    "Bonthandelaar": {
+      "code": "27390",
+      "name": "Bonthandelaar"
+    },
+    "Botenhandelaar": {
+      "code": "27420",
+      "name": "Botenhandelaar"
+    },
+    "Groothandelaar in bouwmaterialen": {
+      "code": "27510",
+      "name": "Groothandelaar in bouwmaterialen"
+    },
+    "Handelaar brandblusmiddelen ook controle/onderhoud": {
+      "code": "27520",
+      "name": "Handelaar brandblusmiddelen ook controle/onderhoud"
+    },
+    "Brandstofhandelaar": {
+      "code": "27530",
+      "name": "Brandstofhandelaar"
+    },
+    "Eigenaar fiets- / bromfietswinkel incl. reparatie": {
+      "code": "27560",
+      "name": "Eigenaar fiets- / bromfietswinkel incl. reparatie"
+    },
+    "Eigenaar fiets- / bromfietswinkel excl. reparatie": {
+      "code": "27580",
+      "name": "Eigenaar fiets- / bromfietswinkel excl. reparatie"
+    },
+    "Handelaar in relatiegeschenken": {
+      "code": "27610",
+      "name": "Handelaar in relatiegeschenken"
+    },
+    "Handelaar in caravans": {
+      "code": "27640",
+      "name": "Handelaar in caravans"
+    },
+    "Eigenaar CD- DVD- platenwinkel": {
+      "code": "27660",
+      "name": "Eigenaar CD- DVD- platenwinkel"
+    },
+    "Eigenaar chocolade artikelen -winkel": {
+      "code": "27690",
+      "name": "Eigenaar chocolade artikelen -winkel"
+    },
+    "Eigenaar kledingwinkel": {
+      "code": "27720",
+      "name": "Eigenaar kledingwinkel"
+    },
+    "Diamantenhandelaar": {
+      "code": "27740",
+      "name": "Diamantenhandelaar"
+    },
+    "Handelaar in diepvriesproducten": {
+      "code": "27770",
+      "name": "Handelaar in diepvriesproducten"
+    },
+    "Groothandelaar in dierenbenodigdheden": {
+      "code": "27800",
+      "name": "Groothandelaar in dierenbenodigdheden"
+    },
+    "Eigenaar doe-het-zelfwinkel": {
+      "code": "27850",
+      "name": "Eigenaar doe-het-zelfwinkel"
+    },
+    "Effectenbemiddelaar": {
+      "code": "27920",
+      "name": "Effectenbemiddelaar"
+    },
+    "Eierhandelaar": {
+      "code": "27980",
+      "name": "Eierhandelaar"
+    },
+    "Eigenaar elektronicawinkel": {
+      "code": "28010",
+      "name": "Eigenaar elektronicawinkel"
+    },
+    "Groothandelaar in foerage-artikelen / veevoer": {
+      "code": "28110",
+      "name": "Groothandelaar in foerage-artikelen / veevoer"
+    },
+    "Eigenaar fotoartikelenwinkel": {
+      "code": "28120",
+      "name": "Eigenaar fotoartikelenwinkel"
+    },
+    "Groothandelaar in groente / fruit": {
+      "code": "28180",
+      "name": "Groothandelaar in groente / fruit"
+    },
+    "Handelaar in garagedeuren/ zonweringen/ rolluiken": {
+      "code": "28230",
+      "name": "Handelaar in garagedeuren/ zonweringen/ rolluiken"
+    },
+    "Glashandelaar": {
+      "code": "28310",
+      "name": "Glashandelaar"
+    },
+    "Groothandelaar in graan, meel, zaden": {
+      "code": "28400",
+      "name": "Groothandelaar in graan, meel, zaden"
+    },
+    "Eigenaar groente, fruit -winkel, bezorgend": {
+      "code": "28440",
+      "name": "Eigenaar groente, fruit -winkel, bezorgend"
+    },
+    "Eigenaar groente, fruit -winkel, niet bezorgend": {
+      "code": "28470",
+      "name": "Eigenaar groente, fruit -winkel, niet bezorgend"
+    },
+    "Groothandelaar in computerhardware": {
+      "code": "28490",
+      "name": "Groothandelaar in computerhardware"
+    },
+    "Eigenaar hengelsportartikelenwinkel": {
+      "code": "28510",
+      "name": "Eigenaar hengelsportartikelenwinkel"
+    },
+    "Houthandelaar": {
+      "code": "28550",
+      "name": "Houthandelaar"
+    },
+    "Eigenaar huishoudelijke artikelen winkel": {
+      "code": "28640",
+      "name": "Eigenaar huishoudelijke artikelen winkel"
+    },
+    "Groothandelaar in ijzerwaren": {
+      "code": "28700",
+      "name": "Groothandelaar in ijzerwaren"
+    },
+    "Groothandelaar in kaas": {
+      "code": "28760",
+      "name": "Groothandelaar in kaas"
+    },
+    "Groothandelaar in kantoorartikelen": {
+      "code": "28780",
+      "name": "Groothandelaar in kantoorartikelen"
+    },
+    "Groothandelaar in kantoormachines": {
+      "code": "28790",
+      "name": "Groothandelaar in kantoormachines"
+    },
+    "Groothandelaar in aardewerk / keramiek": {
+      "code": "28870",
+      "name": "Groothandelaar in aardewerk / keramiek"
+    },
+    "Groothandelaar in keukenapparatuur": {
+      "code": "28880",
+      "name": "Groothandelaar in keukenapparatuur"
+    },
+    "Kunsthandelaar": {
+      "code": "28970",
+      "name": "Kunsthandelaar"
+    },
+    "Handelaar in landbouwmachines ook reparerend": {
+      "code": "29010",
+      "name": "Handelaar in landbouwmachines ook reparerend"
+    },
+    "Handelaar in landbouwmachines niet reparerend": {
+      "code": "29050",
+      "name": "Handelaar in landbouwmachines niet reparerend"
+    },
+    "Leerhandelaar": {
+      "code": "29070",
+      "name": "Leerhandelaar"
+    },
+    "Supermarkthouder rijdende winkel": {
+      "code": "29080",
+      "name": "Supermarkthouder rijdende winkel"
+    },
+    "Lijstenhandelaar": {
+      "code": "29110",
+      "name": "Lijstenhandelaar"
+    },
+    "Handelaar in lompen / oude metalen": {
+      "code": "29150",
+      "name": "Handelaar in lompen / oude metalen"
+    },
+    "Handelaar in motoren / machines": {
+      "code": "29190",
+      "name": "Handelaar in motoren / machines"
+    },
+    "Groothandelaar in medische producten": {
+      "code": "29250",
+      "name": "Groothandelaar in medische producten"
+    },
+    "Eigenaar meubelwinkel": {
+      "code": "29330",
+      "name": "Eigenaar meubelwinkel"
+    },
+    "Eigenaar mode-artikelenwinkel": {
+      "code": "29380",
+      "name": "Eigenaar mode-artikelenwinkel"
+    },
+    "Handelaar in motorfietsen": {
+      "code": "29450",
+      "name": "Handelaar in motorfietsen"
+    },
+    "Eigenaar muziekinstrumentenwinkel niet bezorgend": {
+      "code": "29570",
+      "name": "Eigenaar muziekinstrumentenwinkel niet bezorgend"
+    },
+    "Eigenaar muziekinstrumentenwinkel bezorgend": {
+      "code": "29580",
+      "name": "Eigenaar muziekinstrumentenwinkel bezorgend"
+    },
+    "Eigenaar naaimachinewinkel": {
+      "code": "29610",
+      "name": "Eigenaar naaimachinewinkel"
+    },
+    "Handelaar in netten / touwen inclusief reparatie": {
+      "code": "29640",
+      "name": "Handelaar in netten / touwen inclusief reparatie"
+    },
+    "Groothandelaar in olijfoliën / consumptie-oliën": {
+      "code": "29660",
+      "name": "Groothandelaar in olijfoliën / consumptie-oliën"
+    },
+    "Paardenhandelaar": {
+      "code": "29680",
+      "name": "Paardenhandelaar"
+    },
+    "Papierhandelaar": {
+      "code": "29700",
+      "name": "Papierhandelaar"
+    },
+    "Eigenaar cosmetica en parfumerieën-winkel": {
+      "code": "29740",
+      "name": "Eigenaar cosmetica en parfumerieën-winkel"
+    },
+    "Pluimveehandelaar": {
+      "code": "29760",
+      "name": "Pluimveehandelaar"
+    },
+    "Eigenaar porselein, glas en servies-winkel": {
+      "code": "29770",
+      "name": "Eigenaar porselein, glas en servies-winkel"
+    },
+    "Groothandelaar in revalidatiehulpmiddelen": {
+      "code": "29860",
+      "name": "Groothandelaar in revalidatiehulpmiddelen"
+    },
+    "Groothandelaar in schoenen": {
+      "code": "29970",
+      "name": "Groothandelaar in schoenen"
+    },
+    "Eigenaar schoenenwinkel": {
+      "code": "29990",
+      "name": "Eigenaar schoenenwinkel"
+    },
+    "Eigenaar sigaretten, tabak, tijdschriften -winkel": {
+      "code": "30010",
+      "name": "Eigenaar sigaretten, tabak, tijdschriften -winkel"
+    },
+    "Groothandelaar in speelgoed": {
+      "code": "30040",
+      "name": "Groothandelaar in speelgoed"
+    },
+    "Handelaar in sportartikelen": {
+      "code": "30060",
+      "name": "Handelaar in sportartikelen"
+    },
+    "Eigenaar suikerwerkwinkel": {
+      "code": "30080",
+      "name": "Eigenaar suikerwerkwinkel"
+    },
+    "Eigenaar tapijtwinkel": {
+      "code": "30140",
+      "name": "Eigenaar tapijtwinkel"
+    },
+    "Vastgoedhandelaar": {
+      "code": "30190",
+      "name": "Vastgoedhandelaar"
+    },
+    "Veehandelaar": {
+      "code": "30200",
+      "name": "Veehandelaar"
+    },
+    "Eigenaar verfwinkel / behangwinkel": {
+      "code": "30240",
+      "name": "Eigenaar verfwinkel / behangwinkel"
+    },
+    "Groothandelaar in vleesproducten": {
+      "code": "30320",
+      "name": "Groothandelaar in vleesproducten"
+    },
+    "Handelaar in vloeren en vloerbedekking": {
+      "code": "30330",
+      "name": "Handelaar in vloeren en vloerbedekking"
+    },
+    "Eigenaar watersportwinkel / scheepsartikelenwinkel": {
+      "code": "30340",
+      "name": "Eigenaar watersportwinkel / scheepsartikelenwinkel"
+    },
+    "Eigenaar witgoedwinkel": {
+      "code": "30390",
+      "name": "Eigenaar witgoedwinkel"
+    },
+    "Handelsagent niet reizend": {
+      "code": "30840",
+      "name": "Handelsagent niet reizend"
+    },
+    "Handelsagent reizend": {
+      "code": "30860",
+      "name": "Handelsagent reizend"
+    },
+    "Haptonoom": {
+      "code": "30990",
+      "name": "Haptonoom"
+    },
+    "Haptotherapeut": {
+      "code": "31000",
+      "name": "Haptotherapeut"
+    },
+    "Hypnotherapeut": {
+      "code": "31005",
+      "name": "Hypnotherapeut"
+    },
+    "Havenmeester": {
+      "code": "31010",
+      "name": "Havenmeester"
+    },
+    "Headhunter / recruiter": {
+      "code": "31020",
+      "name": "Headhunter / recruiter"
+    },
+    "Heibaas": {
+      "code": "31030",
+      "name": "Heibaas"
+    },
+    "Heier": {
+      "code": "31040",
+      "name": "Heier"
+    },
+    "Heilgymnast / masseur": {
+      "code": "31060",
+      "name": "Heilgymnast / masseur"
+    },
+    "Helikoptervlieger / helikopterpiloot": {
+      "code": "31070",
+      "name": "Helikoptervlieger / helikopterpiloot"
+    },
+    "Histoloog": {
+      "code": "31120",
+      "name": "Histoloog"
+    },
+    "Hoefsmid": {
+      "code": "31140",
+      "name": "Hoefsmid"
+    },
+    "Hofmeester": {
+      "code": "31150",
+      "name": "Hofmeester"
+    },
+    "Homeopaat arts": {
+      "code": "31170",
+      "name": "Homeopaat arts"
+    },
+    "Homeopaat geen arts": {
+      "code": "31180",
+      "name": "Homeopaat geen arts"
+    },
+    "Hondentrainer": {
+      "code": "31200",
+      "name": "Hondentrainer"
+    },
+    "Hondentrimmer": {
+      "code": "31210",
+      "name": "Hondentrimmer"
+    },
+    "Horlogemaker": {
+      "code": "31260",
+      "name": "Horlogemaker"
+    },
+    "Hotelhouder niet meewerkend": {
+      "code": "31290",
+      "name": "Hotelhouder niet meewerkend"
+    },
+    "Hotelhouder meewerkend": {
+      "code": "31300",
+      "name": "Hotelhouder meewerkend"
+    },
+    "Hotel-restauranthouder niet meewerkend": {
+      "code": "31310",
+      "name": "Hotel-restauranthouder niet meewerkend"
+    },
+    "Schapenhouder / geitenhouder": {
+      "code": "31370",
+      "name": "Schapenhouder / geitenhouder"
+    },
+    "Paardenhouder": {
+      "code": "31390",
+      "name": "Paardenhouder"
+    },
+    "Houthakker": {
+      "code": "31430",
+      "name": "Houthakker"
+    },
+    "Hovenier": {
+      "code": "31440",
+      "name": "Hovenier"
+    },
+    "Huishoudster": {
+      "code": "31450",
+      "name": "Huishoudster"
+    },
+    "Huismeester": {
+      "code": "31470",
+      "name": "Huismeester"
+    },
+    "Hotel-restauranthouder meewerkend": {
+      "code": "31500",
+      "name": "Hotel-restauranthouder meewerkend"
+    },
+    "Pensionhouder meewerkend": {
+      "code": "31510",
+      "name": "Pensionhouder meewerkend"
+    },
+    "Snackbarhouder": {
+      "code": "31520",
+      "name": "Snackbarhouder"
+    },
+    "IJsmaker": {
+      "code": "33020",
+      "name": "IJsmaker"
+    },
+    "IJssalonhouder": {
+      "code": "33030",
+      "name": "IJssalonhouder"
+    },
+    "IJsverkoper": {
+      "code": "33040",
+      "name": "IJsverkoper"
+    },
+    "Illusionist / mentalist": {
+      "code": "35010",
+      "name": "Illusionist / mentalist"
+    },
+    "Imam": {
+      "code": "35030",
+      "name": "Imam"
+    },
+    "Imitator": {
+      "code": "35040",
+      "name": "Imitator"
+    },
+    "Impresario": {
+      "code": "35110",
+      "name": "Impresario"
+    },
+    "Aeronautisch ingenieur": {
+      "code": "35130",
+      "name": "Aeronautisch ingenieur"
+    },
+    "Chemisch ingenieur": {
+      "code": "35170",
+      "name": "Chemisch ingenieur"
+    },
+    "Elektrotechnisch ingenieur": {
+      "code": "35180",
+      "name": "Elektrotechnisch ingenieur"
+    },
+    "Landbouwkundig ingenieur": {
+      "code": "35190",
+      "name": "Landbouwkundig ingenieur"
+    },
+    "Landmeetkundig ingenieur": {
+      "code": "35200",
+      "name": "Landmeetkundig ingenieur"
+    },
+    "Scheepsbouwkundig ingenieur": {
+      "code": "35230",
+      "name": "Scheepsbouwkundig ingenieur"
+    },
+    "Stedenbouwkundig ingenieur": {
+      "code": "35250",
+      "name": "Stedenbouwkundig ingenieur"
+    },
+    "Tuinbouwkundig ingenieur": {
+      "code": "35270",
+      "name": "Tuinbouwkundig ingenieur"
+    },
+    "Inseminator": {
+      "code": "35320",
+      "name": "Inseminator"
+    },
+    "Bouwinspecteur": {
+      "code": "35350",
+      "name": "Bouwinspecteur"
+    },
+    "Brandstofcontainersinspecteur": {
+      "code": "35360",
+      "name": "Brandstofcontainersinspecteur"
+    },
+    "Rioleringsinspecteur": {
+      "code": "35370",
+      "name": "Rioleringsinspecteur"
+    },
+    "Inspecteur imp./exp. aardappelen, groenten, fruit": {
+      "code": "35380",
+      "name": "Inspecteur imp./exp. aardappelen, groenten, fruit"
+    },
+    "Stookinstallatiesinspecteur": {
+      "code": "35390",
+      "name": "Stookinstallatiesinspecteur"
+    },
+    "Inspecteur vloeibare lading": {
+      "code": "35400",
+      "name": "Inspecteur vloeibare lading"
+    },
+    "Installateur bedrijfsmeubilair ook reparerend": {
+      "code": "35430",
+      "name": "Installateur bedrijfsmeubilair ook reparerend"
+    },
+    "Installateur CV / gas / water": {
+      "code": "35460",
+      "name": "Installateur CV / gas / water"
+    },
+    "Installateur digitale media": {
+      "code": "35490",
+      "name": "Installateur digitale media"
+    },
+    "Elektrotechnisch installateur": {
+      "code": "35510",
+      "name": "Elektrotechnisch installateur"
+    },
+    "Installateur hekwerk en/of poorten": {
+      "code": "35520",
+      "name": "Installateur hekwerk en/of poorten"
+    },
+    "Installateur isolatiemateriaal": {
+      "code": "35540",
+      "name": "Installateur isolatiemateriaal"
+    },
+    "Installateur kachels": {
+      "code": "35550",
+      "name": "Installateur kachels"
+    },
+    "Installateur sanitair / sauna's / zwembaden": {
+      "code": "35570",
+      "name": "Installateur sanitair / sauna's / zwembaden"
+    },
+    "Sprinklerinstallateur": {
+      "code": "35580",
+      "name": "Sprinklerinstallateur"
+    },
+    "Telecominstallateur": {
+      "code": "35600",
+      "name": "Telecominstallateur"
+    },
+    "Installateur audio / alarm auto": {
+      "code": "35610",
+      "name": "Installateur audio / alarm auto"
+    },
+    "Installateur zonnepanelen": {
+      "code": "35620",
+      "name": "Installateur zonnepanelen"
+    },
+    "Zonweringinstallateur": {
+      "code": "35640",
+      "name": "Zonweringinstallateur"
+    },
+    "Autorij-instructeur / motorrij-instructeur": {
+      "code": "35650",
+      "name": "Autorij-instructeur / motorrij-instructeur"
+    },
+    "Autorijinstructeur": {
+      "code": "35660",
+      "name": "Autorijinstructeur"
+    },
+    "Paardrijinstructeur": {
+      "code": "35690",
+      "name": "Paardrijinstructeur"
+    },
+    "Instrumentenmaker fijnmechanica": {
+      "code": "35710",
+      "name": "Instrumentenmaker fijnmechanica"
+    },
+    "Instrumentenmaker gereedschap": {
+      "code": "35720",
+      "name": "Instrumentenmaker gereedschap"
+    },
+    "Instrumentenmaker orthopedisch": {
+      "code": "35740",
+      "name": "Instrumentenmaker orthopedisch"
+    },
+    "Interieurbouwer": {
+      "code": "35750",
+      "name": "Interieurbouwer"
+    },
+    "Internist": {
+      "code": "35770",
+      "name": "Internist"
+    },
+    "ICT'er installatie, reparatie": {
+      "code": "35800",
+      "name": "ICT'er installatie, reparatie"
+    },
+    "Jachtbouwer": {
+      "code": "37010",
+      "name": "Jachtbouwer"
+    },
+    "Jachtopziener": {
+      "code": "37020",
+      "name": "Jachtopziener"
+    },
+    "Jeugdherbergleider": {
+      "code": "37040",
+      "name": "Jeugdherbergleider"
+    },
+    "Jockey / Pikeur": {
+      "code": "37050",
+      "name": "Jockey / Pikeur"
+    },
+    "Jongleur": {
+      "code": "37060",
+      "name": "Jongleur"
+    },
+    "Journalist / verslaggever binnenland": {
+      "code": "37080",
+      "name": "Journalist / verslaggever binnenland"
+    },
+    "Journalist / verslaggever buitenland": {
+      "code": "37090",
+      "name": "Journalist / verslaggever buitenland"
+    },
+    "Journalist redactie": {
+      "code": "37140",
+      "name": "Journalist redactie"
+    },
+    "Jurist": {
+      "code": "37170",
+      "name": "Jurist"
+    },
+    "Juwelier met reparatie": {
+      "code": "37210",
+      "name": "Juwelier met reparatie"
+    },
+    "Juwelier zonder reparatie": {
+      "code": "37220",
+      "name": "Juwelier zonder reparatie"
+    },
+    "Kaasmaker": {
+      "code": "39010",
+      "name": "Kaasmaker"
+    },
+    "Kabellegger": {
+      "code": "39020",
+      "name": "Kabellegger"
+    },
+    "Kabellegger en buizenlegger": {
+      "code": "39030",
+      "name": "Kabellegger en buizenlegger"
+    },
+    "Kalvermester": {
+      "code": "39050",
+      "name": "Kalvermester"
+    },
+    "Binnenvaartondernemer": {
+      "code": "39070",
+      "name": "Binnenvaartondernemer"
+    },
+    "Kapitein zeevaart / kustvaart": {
+      "code": "39090",
+      "name": "Kapitein zeevaart / kustvaart"
+    },
+    "Kapper": {
+      "code": "39100",
+      "name": "Kapper"
+    },
+    "Kassenbouwer exclusief beglazen": {
+      "code": "39130",
+      "name": "Kassenbouwer exclusief beglazen"
+    },
+    "Kassenbouwer constructies": {
+      "code": "39140",
+      "name": "Kassenbouwer constructies"
+    },
+    "Kassenbouwer inclusief beglazen": {
+      "code": "39150",
+      "name": "Kassenbouwer inclusief beglazen"
+    },
+    "Kelner": {
+      "code": "39160",
+      "name": "Kelner"
+    },
+    "Kennelhouder": {
+      "code": "39170",
+      "name": "Kennelhouder"
+    },
+    "Keukensteller / keukeninstallateur": {
+      "code": "39180",
+      "name": "Keukensteller / keukeninstallateur"
+    },
+    "Keurmeester APK": {
+      "code": "39200",
+      "name": "Keurmeester APK"
+    },
+    "Keurmeester gereedschap": {
+      "code": "39210",
+      "name": "Keurmeester gereedschap"
+    },
+    "Keurmeester veiling": {
+      "code": "39220",
+      "name": "Keurmeester veiling"
+    },
+    "Kitter": {
+      "code": "39230",
+      "name": "Kitter"
+    },
+    "Kleermaker": {
+      "code": "39250",
+      "name": "Kleermaker"
+    },
+    "Kinderleidster": {
+      "code": "39270",
+      "name": "Kinderleidster"
+    },
+    "Klimatoloog": {
+      "code": "39280",
+      "name": "Klimatoloog"
+    },
+    "Klinisch immunoloog": {
+      "code": "39290",
+      "name": "Klinisch immunoloog"
+    },
+    "Klokkenmaker": {
+      "code": "39300",
+      "name": "Klokkenmaker"
+    },
+    "Klompenmaker": {
+      "code": "39310",
+      "name": "Klompenmaker"
+    },
+    "Klusjesman": {
+      "code": "39320",
+      "name": "Klusjesman"
+    },
+    "Koerier meewerkend": {
+      "code": "39330",
+      "name": "Koerier meewerkend"
+    },
+    "Koerier niet meewerkend": {
+      "code": "39380",
+      "name": "Koerier niet meewerkend"
+    },
+    "Kok": {
+      "code": "39400",
+      "name": "Kok"
+    },
+    "Koperslager": {
+      "code": "39420",
+      "name": "Koperslager"
+    },
+    "Koppensneller": {
+      "code": "39430",
+      "name": "Koppensneller"
+    },
+    "Koster": {
+      "code": "39440",
+      "name": "Koster"
+    },
+    "Kozijnzetter": {
+      "code": "39450",
+      "name": "Kozijnzetter"
+    },
+    "Kraamverpleegster": {
+      "code": "39460",
+      "name": "Kraamverpleegster"
+    },
+    "Kraamverzorgende": {
+      "code": "39470",
+      "name": "Kraamverzorgende"
+    },
+    "Kranten en tijdschriften distributeur": {
+      "code": "39500",
+      "name": "Kranten en tijdschriften distributeur"
+    },
+    "Kuikensekser": {
+      "code": "39550",
+      "name": "Kuikensekser"
+    },
+    "Kunstenaar": {
+      "code": "39570",
+      "name": "Kunstenaar"
+    },
+    "Beeldend kunstenaar": {
+      "code": "39580",
+      "name": "Beeldend kunstenaar"
+    },
+    "Kunstgalerieconservator": {
+      "code": "39590",
+      "name": "Kunstgalerieconservator"
+    },
+    "Galeriehouder": {
+      "code": "39600",
+      "name": "Galeriehouder"
+    },
+    "Kunstschilder": {
+      "code": "39610",
+      "name": "Kunstschilder"
+    },
+    "Bloemenkweker / plantenkweker kassen": {
+      "code": "39740",
+      "name": "Bloemenkweker / plantenkweker kassen"
+    },
+    "Bloemenkweker / plantenkweker koude grond": {
+      "code": "39750",
+      "name": "Bloemenkweker / plantenkweker koude grond"
+    },
+    "Boomkweker": {
+      "code": "39760",
+      "name": "Boomkweker"
+    },
+    "Graszodenkweker": {
+      "code": "39850",
+      "name": "Graszodenkweker"
+    },
+    "Groentekweker / fruitkweker kas": {
+      "code": "39860",
+      "name": "Groentekweker / fruitkweker kas"
+    },
+    "Groentekweker / fruitkweker koude grond": {
+      "code": "39870",
+      "name": "Groentekweker / fruitkweker koude grond"
+    },
+    "Kweker handelsgewassen": {
+      "code": "39900",
+      "name": "Kweker handelsgewassen"
+    },
+    "Paddenstoelkweker kassen": {
+      "code": "40020",
+      "name": "Paddenstoelkweker kassen"
+    },
+    "Paddenstoelkweker koude grond": {
+      "code": "40030",
+      "name": "Paddenstoelkweker koude grond"
+    },
+    "Kweker schelpdieren / wier": {
+      "code": "40090",
+      "name": "Kweker schelpdieren / wier"
+    },
+    "Viskweker": {
+      "code": "40110",
+      "name": "Viskweker"
+    },
+    "Kunststofbewerker": {
+      "code": "40200",
+      "name": "Kunststofbewerker"
+    },
+    "Chemisch laborant": {
+      "code": "41020",
+      "name": "Chemisch laborant"
+    },
+    "Medisch laborant": {
+      "code": "41030",
+      "name": "Medisch laborant"
+    },
+    "Landmeter": {
+      "code": "41070",
+      "name": "Landmeter"
+    },
+    "Lasser": {
+      "code": "41080",
+      "name": "Lasser"
+    },
+    "Lector": {
+      "code": "41090",
+      "name": "Lector"
+    },
+    "Leerbewerker": {
+      "code": "41100",
+      "name": "Leerbewerker"
+    },
+    "Eigenaar kinderdagverblijf": {
+      "code": "41140",
+      "name": "Eigenaar kinderdagverblijf"
+    },
+    "Balletleraar": {
+      "code": "41160",
+      "name": "Balletleraar"
+    },
+    "Leraar basis- / middelbaar- / beroepsonderwijs": {
+      "code": "41170",
+      "name": "Leraar basis- / middelbaar- / beroepsonderwijs"
+    },
+    "Dansleraar geen ballet": {
+      "code": "41190",
+      "name": "Dansleraar geen ballet"
+    },
+    "Golfleraar": {
+      "code": "41220",
+      "name": "Golfleraar"
+    },
+    "Gymnastiekleraar": {
+      "code": "41230",
+      "name": "Gymnastiekleraar"
+    },
+    "Leraar hoger beroepsonderwijs / univers. onderwijs": {
+      "code": "41260",
+      "name": "Leraar hoger beroepsonderwijs / univers. onderwijs"
+    },
+    "Leraar vechtsport / krachtsport": {
+      "code": "41270",
+      "name": "Leraar vechtsport / krachtsport"
+    },
+    "Muziekleraar": {
+      "code": "41290",
+      "name": "Muziekleraar"
+    },
+    "Sportleraar": {
+      "code": "41330",
+      "name": "Sportleraar"
+    },
+    "Leraar technische vakken": {
+      "code": "41340",
+      "name": "Leraar technische vakken"
+    },
+    "Tekenleraar": {
+      "code": "41360",
+      "name": "Tekenleraar"
+    },
+    "Tennisleraar": {
+      "code": "41370",
+      "name": "Tennisleraar"
+    },
+    "Yogaleraar": {
+      "code": "41380",
+      "name": "Yogaleraar"
+    },
+    "Zangleraar": {
+      "code": "41390",
+      "name": "Zangleraar"
+    },
+    "Zwemleraar": {
+      "code": "41400",
+      "name": "Zwemleraar"
+    },
+    "Leraar surfen / zeilen": {
+      "code": "41410",
+      "name": "Leraar surfen / zeilen"
+    },
+    "Leraar buitengewoon onderwijs": {
+      "code": "41420",
+      "name": "Leraar buitengewoon onderwijs"
+    },
+    "Levensmiddelenproducent": {
+      "code": "41460",
+      "name": "Levensmiddelenproducent"
+    },
+    "Lijstenmaker": {
+      "code": "41470",
+      "name": "Lijstenmaker"
+    },
+    "Lithograaf": {
+      "code": "41480",
+      "name": "Lithograaf"
+    },
+    "Logopedist": {
+      "code": "41490",
+      "name": "Logopedist"
+    },
+    "Loodgieter met dakdekken": {
+      "code": "41520",
+      "name": "Loodgieter met dakdekken"
+    },
+    "Loodgieter zonder dakdekken": {
+      "code": "41530",
+      "name": "Loodgieter zonder dakdekken"
+    },
+    "Loods binnenvaart": {
+      "code": "41540",
+      "name": "Loods binnenvaart"
+    },
+    "Loodsenbouwer": {
+      "code": "41550",
+      "name": "Loodsenbouwer"
+    },
+    "Loonslachter / slachter / uitbener": {
+      "code": "41560",
+      "name": "Loonslachter / slachter / uitbener"
+    },
+    "Loonwerker agrarisch": {
+      "code": "41590",
+      "name": "Loonwerker agrarisch"
+    },
+    "Loonwerker landbouwmachines": {
+      "code": "41620",
+      "name": "Loonwerker landbouwmachines"
+    },
+    "Loonwerker pluimvee": {
+      "code": "41640",
+      "name": "Loonwerker pluimvee"
+    },
+    "Loopbaanbegeleider": {
+      "code": "41660",
+      "name": "Loopbaanbegeleider"
+    },
+    "Looptrainer": {
+      "code": "41670",
+      "name": "Looptrainer"
+    },
+    "Maatschappelijk werker": {
+      "code": "43010",
+      "name": "Maatschappelijk werker"
+    },
+    "Baggermachinist": {
+      "code": "43030",
+      "name": "Baggermachinist"
+    },
+    "Bouwmachinemachinist": {
+      "code": "43040",
+      "name": "Bouwmachinemachinist"
+    },
+    "Bulldozermachinist": {
+      "code": "43050",
+      "name": "Bulldozermachinist"
+    },
+    "Dorsmachinist": {
+      "code": "43060",
+      "name": "Dorsmachinist"
+    },
+    "Graafmachinemachinist": {
+      "code": "43080",
+      "name": "Graafmachinemachinist"
+    },
+    "Grondverzetmachinist": {
+      "code": "43090",
+      "name": "Grondverzetmachinist"
+    },
+    "Kraanmachinist / hoogwerkermachinist": {
+      "code": "43120",
+      "name": "Kraanmachinist / hoogwerkermachinist"
+    },
+    "Laadschopmachninist / shovelmachinist": {
+      "code": "43130",
+      "name": "Laadschopmachninist / shovelmachinist"
+    },
+    "Magnetiseur": {
+      "code": "43170",
+      "name": "Magnetiseur"
+    },
+    "Verzekeringsmakelaar": {
+      "code": "43190",
+      "name": "Verzekeringsmakelaar"
+    },
+    "Effectenmakelaar": {
+      "code": "43200",
+      "name": "Effectenmakelaar"
+    },
+    "Makelaar onroerend goed": {
+      "code": "43210",
+      "name": "Makelaar onroerend goed"
+    },
+    "Casemanager": {
+      "code": "43230",
+      "name": "Casemanager"
+    },
+    "Interimmanager": {
+      "code": "43290",
+      "name": "Interimmanager"
+    },
+    "Projectmanager": {
+      "code": "43310",
+      "name": "Projectmanager"
+    },
+    "Manegehouder geen paardrij-instructeur": {
+      "code": "43340",
+      "name": "Manegehouder geen paardrij-instructeur"
+    },
+    "Manegehouder ook paardrij-instructeur": {
+      "code": "43350",
+      "name": "Manegehouder ook paardrij-instructeur"
+    },
+    "Manicure": {
+      "code": "43360",
+      "name": "Manicure"
+    },
+    "Mannequin": {
+      "code": "43370",
+      "name": "Mannequin"
+    },
+    "Maquettebouwer": {
+      "code": "43380",
+      "name": "Maquettebouwer"
+    },
+    "Marien bioloog": {
+      "code": "43410",
+      "name": "Marien bioloog"
+    },
+    "Marktkoopman stal / kraam": {
+      "code": "43440",
+      "name": "Marktkoopman stal / kraam"
+    },
+    "Marktkoopman verkoopwagen": {
+      "code": "43450",
+      "name": "Marktkoopman verkoopwagen"
+    },
+    "Marktonderzoeker": {
+      "code": "43470",
+      "name": "Marktonderzoeker"
+    },
+    "Masseur geen sportmasseur": {
+      "code": "43480",
+      "name": "Masseur geen sportmasseur"
+    },
+    "Masseur sport": {
+      "code": "43490",
+      "name": "Masseur sport"
+    },
+    "Medisch assistent": {
+      "code": "43502",
+      "name": "Medisch assistent"
+    },
+    "Mediator echtscheiding / conflicten": {
+      "code": "43630",
+      "name": "Mediator echtscheiding / conflicten"
+    },
+    "Melkrijder": {
+      "code": "43650",
+      "name": "Melkrijder"
+    },
+    "Mesoloog": {
+      "code": "43680",
+      "name": "Mesoloog"
+    },
+    "Kuikenmester": {
+      "code": "43690",
+      "name": "Kuikenmester"
+    },
+    "Metaalbewerker inclusief lassen": {
+      "code": "43710",
+      "name": "Metaalbewerker inclusief lassen"
+    },
+    "Metaalbewerker exclusief lassen": {
+      "code": "43720",
+      "name": "Metaalbewerker exclusief lassen"
+    },
+    "Metselaar": {
+      "code": "43730",
+      "name": "Metselaar"
+    },
+    "Meubelmaker": {
+      "code": "43740",
+      "name": "Meubelmaker"
+    },
+    "Modiste": {
+      "code": "43770",
+      "name": "Modiste"
+    },
+    "Molenaar": {
+      "code": "43780",
+      "name": "Molenaar"
+    },
+    "Mondhygiënist": {
+      "code": "43790",
+      "name": "Mondhygiënist"
+    },
+    "Automonteur / motormonteur": {
+      "code": "43830",
+      "name": "Automonteur / motormonteur"
+    },
+    "Bromfietsmonteur": {
+      "code": "43850",
+      "name": "Bromfietsmonteur"
+    },
+    "Computermonteur": {
+      "code": "43870",
+      "name": "Computermonteur"
+    },
+    "Cv-monteur": {
+      "code": "43880",
+      "name": "Cv-monteur"
+    },
+    "Elektrotechnisch monteur": {
+      "code": "43890",
+      "name": "Elektrotechnisch monteur"
+    },
+    "Isolatiemonteur": {
+      "code": "43920",
+      "name": "Isolatiemonteur"
+    },
+    "Liftmonteur": {
+      "code": "43930",
+      "name": "Liftmonteur"
+    },
+    "Machinemonteur": {
+      "code": "43940",
+      "name": "Machinemonteur"
+    },
+    "Onderhoudsmonteur bruggen": {
+      "code": "43970",
+      "name": "Onderhoudsmonteur bruggen"
+    },
+    "Reclamemonteur ook op hoogte": {
+      "code": "44010",
+      "name": "Reclamemonteur ook op hoogte"
+    },
+    "Systeemplafondmonteur": {
+      "code": "44030",
+      "name": "Systeemplafondmonteur"
+    },
+    "Musicus": {
+      "code": "44050",
+      "name": "Musicus"
+    },
+    "Muziekinstrumentenmaker bezorgend": {
+      "code": "44070",
+      "name": "Muziekinstrumentenmaker bezorgend"
+    },
+    "Muziekinstrumentenmaker niet bezorgend": {
+      "code": "44080",
+      "name": "Muziekinstrumentenmaker niet bezorgend"
+    },
+    "Naaister": {
+      "code": "47010",
+      "name": "Naaister"
+    },
+    "Nagelstylist": {
+      "code": "47020",
+      "name": "Nagelstylist"
+    },
+    "Natuurkundige": {
+      "code": "47040",
+      "name": "Natuurkundige"
+    },
+    "Neurofysioloog": {
+      "code": "47050",
+      "name": "Neurofysioloog"
+    },
+    "Neuroloog": {
+      "code": "47060",
+      "name": "Neuroloog"
+    },
+    "Kinderneuroloog": {
+      "code": "47070",
+      "name": "Kinderneuroloog"
+    },
+    "Neuroloog psychiater": {
+      "code": "47080",
+      "name": "Neuroloog psychiater"
+    },
+    "Notaris": {
+      "code": "47090",
+      "name": "Notaris"
+    },
+    "Oncoloog": {
+      "code": "49020",
+      "name": "Oncoloog"
+    },
+    "Ongediertebestrijder": {
+      "code": "49060",
+      "name": "Ongediertebestrijder"
+    },
+    "Decorontwerper": {
+      "code": "49090",
+      "name": "Decorontwerper"
+    },
+    "Grafisch ontwerper": {
+      "code": "49110",
+      "name": "Grafisch ontwerper"
+    },
+    "Industrieel ontwerper": {
+      "code": "49120",
+      "name": "Industrieel ontwerper"
+    },
+    "Kunststoffenontwerper": {
+      "code": "49140",
+      "name": "Kunststoffenontwerper"
+    },
+    "Meubelontwerper": {
+      "code": "49150",
+      "name": "Meubelontwerper"
+    },
+    "Modeontwerper / kledingontwerper": {
+      "code": "49170",
+      "name": "Modeontwerper / kledingontwerper"
+    },
+    "Reclameontwerper / reclametekenaar": {
+      "code": "49190",
+      "name": "Reclameontwerper / reclametekenaar"
+    },
+    "Software-ontwikkelaar / programmeur": {
+      "code": "49200",
+      "name": "Software-ontwikkelaar / programmeur"
+    },
+    "Filmopnameleider": {
+      "code": "49230",
+      "name": "Filmopnameleider"
+    },
+    "Opticien": {
+      "code": "49250",
+      "name": "Opticien"
+    },
+    "Optometrist": {
+      "code": "49260",
+      "name": "Optometrist"
+    },
+    "Opvoedkundige": {
+      "code": "49270",
+      "name": "Opvoedkundige"
+    },
+    "Bouwopzichter niet meewerkend": {
+      "code": "49280",
+      "name": "Bouwopzichter niet meewerkend"
+    },
+    "Bouwopzichter meewerkend": {
+      "code": "49290",
+      "name": "Bouwopzichter meewerkend"
+    },
+    "Evenementenorganisator bureauwerk": {
+      "code": "49320",
+      "name": "Evenementenorganisator bureauwerk"
+    },
+    "Evenementenorganisator geen sport, meewerkend": {
+      "code": "49330",
+      "name": "Evenementenorganisator geen sport, meewerkend"
+    },
+    "Evenementenorganisator sport meewerkend": {
+      "code": "49340",
+      "name": "Evenementenorganisator sport meewerkend"
+    },
+    "Orthodontist": {
+      "code": "49370",
+      "name": "Orthodontist"
+    },
+    "Orthopeed": {
+      "code": "49380",
+      "name": "Orthopeed"
+    },
+    "Orthopedagoog": {
+      "code": "49390",
+      "name": "Orthopedagoog"
+    },
+    "Orthopedisch maatnemer": {
+      "code": "49410",
+      "name": "Orthopedisch maatnemer"
+    },
+    "Orthoptist": {
+      "code": "49430",
+      "name": "Orthoptist"
+    },
+    "Osteopaat arts": {
+      "code": "49450",
+      "name": "Osteopaat arts"
+    },
+    "Osteopaat geen arts": {
+      "code": "49460",
+      "name": "Osteopaat geen arts"
+    },
+    "Palletmaker": {
+      "code": "51010",
+      "name": "Palletmaker"
+    },
+    "Parketlegger": {
+      "code": "51030",
+      "name": "Parketlegger"
+    },
+    "Pastoraal werker": {
+      "code": "51060",
+      "name": "Pastoraal werker"
+    },
+    "Patholoog": {
+      "code": "51090",
+      "name": "Patholoog"
+    },
+    "Patholoog anatoom": {
+      "code": "51100",
+      "name": "Patholoog anatoom"
+    },
+    "Pedagoog": {
+      "code": "51120",
+      "name": "Pedagoog"
+    },
+    "Pedicure": {
+      "code": "51140",
+      "name": "Pedicure"
+    },
+    "Veepedicure": {
+      "code": "51152",
+      "name": "Veepedicure"
+    },
+    "Pensionhouder niet meewerkend": {
+      "code": "51170",
+      "name": "Pensionhouder niet meewerkend"
+    },
+    "Perfusionist": {
+      "code": "51180",
+      "name": "Perfusionist"
+    },
+    "Periodontist": {
+      "code": "51190",
+      "name": "Periodontist"
+    },
+    "Personenschadedeskundige": {
+      "code": "51230",
+      "name": "Personenschadedeskundige"
+    },
+    "Pianostemmer": {
+      "code": "51240",
+      "name": "Pianostemmer"
+    },
+    "Plaatwerker": {
+      "code": "51260",
+      "name": "Plaatwerker"
+    },
+    "Plaatwerker auto's": {
+      "code": "51270",
+      "name": "Plaatwerker auto's"
+    },
+    "Onderhoudsplanner": {
+      "code": "51300",
+      "name": "Onderhoudsplanner"
+    },
+    "Transportplanner": {
+      "code": "51310",
+      "name": "Transportplanner"
+    },
+    "Pluimveehouder": {
+      "code": "51320",
+      "name": "Pluimveehouder"
+    },
+    "Podiumbouwer": {
+      "code": "51330",
+      "name": "Podiumbouwer"
+    },
+    "Podoloog": {
+      "code": "51340",
+      "name": "Podoloog"
+    },
+    "Poelier niet zelf slachtend": {
+      "code": "51360",
+      "name": "Poelier niet zelf slachtend"
+    },
+    "Poelier zelf slachtend": {
+      "code": "51370",
+      "name": "Poelier zelf slachtend"
+    },
+    "Poetser auto's met wasstraat": {
+      "code": "51390",
+      "name": "Poetser auto's met wasstraat"
+    },
+    "Poetser auto's zonder wasstraat": {
+      "code": "51400",
+      "name": "Poetser auto's zonder wasstraat"
+    },
+    "Poffertjeskraamhouder": {
+      "code": "51410",
+      "name": "Poffertjeskraamhouder"
+    },
+    "Politicoloog": {
+      "code": "51420",
+      "name": "Politicoloog"
+    },
+    "Portier": {
+      "code": "51440",
+      "name": "Portier"
+    },
+    "Pottenbakker": {
+      "code": "51450",
+      "name": "Pottenbakker"
+    },
+    "Predikant": {
+      "code": "51460",
+      "name": "Predikant"
+    },
+    "Dierenpreparateur": {
+      "code": "51470",
+      "name": "Dierenpreparateur"
+    },
+    "Tv-presentator": {
+      "code": "51480",
+      "name": "Tv-presentator"
+    },
+    "Procesoperator": {
+      "code": "51490",
+      "name": "Procesoperator"
+    },
+    "Producent aardewerk": {
+      "code": "51530",
+      "name": "Producent aardewerk"
+    },
+    "Producent betonwaren en cement": {
+      "code": "51550",
+      "name": "Producent betonwaren en cement"
+    },
+    "Producent bijouterieën en galanterieën": {
+      "code": "51570",
+      "name": "Producent bijouterieën en galanterieën"
+    },
+    "Producent chemicaliën": {
+      "code": "51590",
+      "name": "Producent chemicaliën"
+    },
+    "Producent chocolade / suikerwaar": {
+      "code": "51610",
+      "name": "Producent chocolade / suikerwaar"
+    },
+    "Producent cosmetica": {
+      "code": "51620",
+      "name": "Producent cosmetica"
+    },
+    "Producent films en video's": {
+      "code": "51650",
+      "name": "Producent films en video's"
+    },
+    "Producent ijs consumptie": {
+      "code": "51680",
+      "name": "Producent ijs consumptie"
+    },
+    "Producent leerwaren": {
+      "code": "51710",
+      "name": "Producent leerwaren"
+    },
+    "Producent metaalwaren": {
+      "code": "51750",
+      "name": "Producent metaalwaren"
+    },
+    "Producent parfumerieën": {
+      "code": "51800",
+      "name": "Producent parfumerieën"
+    },
+    "Producent textielwaren": {
+      "code": "51850",
+      "name": "Producent textielwaren"
+    },
+    "Producent wijn, bier en gedestilleerd": {
+      "code": "51890",
+      "name": "Producent wijn, bier en gedestilleerd"
+    },
+    "Producent zuivelproducten": {
+      "code": "51900",
+      "name": "Producent zuivelproducten"
+    },
+    "Muziekproducer": {
+      "code": "51910",
+      "name": "Muziekproducer"
+    },
+    "Radioproducer / tv-producer": {
+      "code": "51920",
+      "name": "Radioproducer / tv-producer"
+    },
+    "Productieleider uitvoerende kunst": {
+      "code": "51940",
+      "name": "Productieleider uitvoerende kunst"
+    },
+    "Projectleider bouw meewerkend": {
+      "code": "51970",
+      "name": "Projectleider bouw meewerkend"
+    },
+    "Projectleider bouw niet meewerkend": {
+      "code": "51980",
+      "name": "Projectleider bouw niet meewerkend"
+    },
+    "Pruikenmaker": {
+      "code": "52000",
+      "name": "Pruikenmaker"
+    },
+    "Psychiater": {
+      "code": "52010",
+      "name": "Psychiater"
+    },
+    "Kinderpsychiater": {
+      "code": "52020",
+      "name": "Kinderpsychiater"
+    },
+    "Neuropsychiater": {
+      "code": "52030",
+      "name": "Neuropsychiater"
+    },
+    "Psycholoog": {
+      "code": "52040",
+      "name": "Psycholoog"
+    },
+    "Kinderpsycholoog": {
+      "code": "52050",
+      "name": "Kinderpsycholoog"
+    },
+    "Psychomotorisch therapeut": {
+      "code": "52060",
+      "name": "Psychomotorisch therapeut"
+    },
+    "Psychotherapeut niet psycholoog": {
+      "code": "52080",
+      "name": "Psychotherapeut niet psycholoog"
+    },
+    "Psychotherapeut ook psycholoog": {
+      "code": "52090",
+      "name": "Psychotherapeut ook psycholoog"
+    },
+    "Public relations officer": {
+      "code": "52100",
+      "name": "Public relations officer"
+    },
+    "Rabbijn": {
+      "code": "55010",
+      "name": "Rabbijn"
+    },
+    "Radiodiagnostisch laborant": {
+      "code": "55030",
+      "name": "Radiodiagnostisch laborant"
+    },
+    "Radioloog": {
+      "code": "55040",
+      "name": "Radioloog"
+    },
+    "Recensent": {
+      "code": "55060",
+      "name": "Recensent"
+    },
+    "Receptioniste": {
+      "code": "55110",
+      "name": "Receptioniste"
+    },
+    "Reclamevlieger": {
+      "code": "55120",
+      "name": "Reclamevlieger"
+    },
+    "Recreatieparkhouder": {
+      "code": "55130",
+      "name": "Recreatieparkhouder"
+    },
+    "Redacteur": {
+      "code": "55150",
+      "name": "Redacteur"
+    },
+    "Reder": {
+      "code": "55160",
+      "name": "Reder"
+    },
+    "Regisseur": {
+      "code": "55170",
+      "name": "Regisseur"
+    },
+    "Chemisch reiniger": {
+      "code": "55220",
+      "name": "Chemisch reiniger"
+    },
+    "Reisbureauhouder": {
+      "code": "55240",
+      "name": "Reisbureauhouder"
+    },
+    "Reisleider": {
+      "code": "55260",
+      "name": "Reisleider"
+    },
+    "Rentmeester": {
+      "code": "55270",
+      "name": "Rentmeester"
+    },
+    "Restauranthouder niet meewerkend": {
+      "code": "55370",
+      "name": "Restauranthouder niet meewerkend"
+    },
+    "Restauranthouder meewerkend": {
+      "code": "55380",
+      "name": "Restauranthouder meewerkend"
+    },
+    "Restaurateur kunstvoorwerpen": {
+      "code": "55410",
+      "name": "Restaurateur kunstvoorwerpen"
+    },
+    "Restaurateur meubelen": {
+      "code": "55430",
+      "name": "Restaurateur meubelen"
+    },
+    "Reumatoloog": {
+      "code": "55460",
+      "name": "Reumatoloog"
+    },
+    "Rietsnijder": {
+      "code": "55480",
+      "name": "Rietsnijder"
+    },
+    "Rioolontstopper": {
+      "code": "55520",
+      "name": "Rioolontstopper"
+    },
+    "Boomrooier": {
+      "code": "55550",
+      "name": "Boomrooier"
+    },
+    "Sales promotor": {
+      "code": "57010",
+      "name": "Sales promotor"
+    },
+    "Asbestsaneerder": {
+      "code": "57020",
+      "name": "Asbestsaneerder"
+    },
+    "Schade-expert": {
+      "code": "57030",
+      "name": "Schade-expert"
+    },
+    "Schaderegelaar": {
+      "code": "57040",
+      "name": "Schaderegelaar"
+    },
+    "Scheepsbouwer meewerkend": {
+      "code": "57070",
+      "name": "Scheepsbouwer meewerkend"
+    },
+    "Scheepsbouwer niet meewerkend": {
+      "code": "57080",
+      "name": "Scheepsbouwer niet meewerkend"
+    },
+    "Scheepswerktuigbouwkundige zeevaart / kustvaart": {
+      "code": "57100",
+      "name": "Scheepswerktuigbouwkundige zeevaart / kustvaart"
+    },
+    "Constructieschilder / montageschilder": {
+      "code": "57130",
+      "name": "Constructieschilder / montageschilder"
+    },
+    "Decoratieschilder": {
+      "code": "57150",
+      "name": "Decoratieschilder"
+    },
+    "Huisschilder": {
+      "code": "57160",
+      "name": "Huisschilder"
+    },
+    "Reclameschilder": {
+      "code": "57180",
+      "name": "Reclameschilder"
+    },
+    "Beurtschipper": {
+      "code": "57190",
+      "name": "Beurtschipper"
+    },
+    "Binnenvaartschipper": {
+      "code": "57200",
+      "name": "Binnenvaartschipper"
+    },
+    "Duwbootschipper": {
+      "code": "57220",
+      "name": "Duwbootschipper"
+    },
+    "Sleepbootschipper": {
+      "code": "57240",
+      "name": "Sleepbootschipper"
+    },
+    "Schoenmaker": {
+      "code": "57250",
+      "name": "Schoenmaker"
+    },
+    "Orthopedisch schoenmaker": {
+      "code": "57260",
+      "name": "Orthopedisch schoenmaker"
+    },
+    "Schoonheidsspecialist": {
+      "code": "57270",
+      "name": "Schoonheidsspecialist"
+    },
+    "Schoonmaker schepen / wagons": {
+      "code": "57380",
+      "name": "Schoonmaker schepen / wagons"
+    },
+    "Schoorsteenbouwer": {
+      "code": "57390",
+      "name": "Schoorsteenbouwer"
+    },
+    "Schoorsteenveger": {
+      "code": "57400",
+      "name": "Schoorsteenveger"
+    },
+    "Secretaresse / secretaris": {
+      "code": "57470",
+      "name": "Secretaresse / secretaris"
+    },
+    "Seksuoloog": {
+      "code": "57510",
+      "name": "Seksuoloog"
+    },
+    "Seroloog": {
+      "code": "57520",
+      "name": "Seroloog"
+    },
+    "Slager niet zelf slachtend": {
+      "code": "57600",
+      "name": "Slager niet zelf slachtend"
+    },
+    "Slager zelf slachtend": {
+      "code": "57610",
+      "name": "Slager zelf slachtend"
+    },
+    "Slijter bezorgend": {
+      "code": "57620",
+      "name": "Slijter bezorgend"
+    },
+    "Slijter niet bezorgend": {
+      "code": "57640",
+      "name": "Slijter niet bezorgend"
+    },
+    "Autosloper": {
+      "code": "57680",
+      "name": "Autosloper"
+    },
+    "Gebouwensloper": {
+      "code": "57690",
+      "name": "Gebouwensloper"
+    },
+    "Scheepssloper": {
+      "code": "57700",
+      "name": "Scheepssloper"
+    },
+    "Slotenmaker": {
+      "code": "57710",
+      "name": "Slotenmaker"
+    },
+    "Smelter / gieter": {
+      "code": "57720",
+      "name": "Smelter / gieter"
+    },
+    "Snackkraamhouder": {
+      "code": "57800",
+      "name": "Snackkraamhouder"
+    },
+    "Socioloog": {
+      "code": "57850",
+      "name": "Socioloog"
+    },
+    "Spuiter zonder plaatwerk": {
+      "code": "58080",
+      "name": "Spuiter zonder plaatwerk"
+    },
+    "Spuiter met plaatwerk": {
+      "code": "58120",
+      "name": "Spuiter met plaatwerk"
+    },
+    "Stallenbouwer": {
+      "code": "58140",
+      "name": "Stallenbouwer"
+    },
+    "Standbouwer": {
+      "code": "58150",
+      "name": "Standbouwer"
+    },
+    "Stedenbouwkundige": {
+      "code": "58160",
+      "name": "Stedenbouwkundige"
+    },
+    "Steenbakker": {
+      "code": "58170",
+      "name": "Steenbakker"
+    },
+    "Steenhouwer": {
+      "code": "58180",
+      "name": "Steenhouwer"
+    },
+    "Steigerbouwer / stellingbouwer": {
+      "code": "58200",
+      "name": "Steigerbouwer / stellingbouwer"
+    },
+    "Meubelstoffeerder": {
+      "code": "58220",
+      "name": "Meubelstoffeerder"
+    },
+    "Woningstoffeerder": {
+      "code": "58260",
+      "name": "Woningstoffeerder"
+    },
+    "Stratenmaker volledig automatisch": {
+      "code": "58300",
+      "name": "Stratenmaker volledig automatisch"
+    },
+    "Straler": {
+      "code": "58310",
+      "name": "Straler"
+    },
+    "Strandpaviljoenhouder": {
+      "code": "58330",
+      "name": "Strandpaviljoenhouder"
+    },
+    "Strandtenthouder": {
+      "code": "58340",
+      "name": "Strandtenthouder"
+    },
+    "Stratenmaker niet volledig automatisch": {
+      "code": "58350",
+      "name": "Stratenmaker niet volledig automatisch"
+    },
+    "Stukadoor": {
+      "code": "58360",
+      "name": "Stukadoor"
+    },
+    "Studiebegeleider": {
+      "code": "58370",
+      "name": "Studiebegeleider"
+    },
+    "Stuwadoor": {
+      "code": "58400",
+      "name": "Stuwadoor"
+    },
+    "Stylist": {
+      "code": "58410",
+      "name": "Stylist"
+    },
+    "Woningstylist ontwerpend / adviserend": {
+      "code": "58420",
+      "name": "Woningstylist ontwerpend / adviserend"
+    },
+    "Woningstylist uitvoerend": {
+      "code": "58430",
+      "name": "Woningstylist uitvoerend"
+    },
+    "Supermarkthouder vaste locatie": {
+      "code": "58440",
+      "name": "Supermarkthouder vaste locatie"
+    },
+    "Applicatiebeheerder / functioneel beheerder": {
+      "code": "58450",
+      "name": "Applicatiebeheerder / functioneel beheerder"
+    },
+    "Systeemanalist": {
+      "code": "58460",
+      "name": "Systeemanalist"
+    },
+    "Systeembeheerder": {
+      "code": "58480",
+      "name": "Systeembeheerder"
+    },
+    "Systeemontwerper": {
+      "code": "58490",
+      "name": "Systeemontwerper"
+    },
+    "Systeemwandbouwer": {
+      "code": "58550",
+      "name": "Systeemwandbouwer"
+    },
+    "Tatoeëerder / piercer": {
+      "code": "61010",
+      "name": "Tatoeëerder / piercer"
+    },
+    "Taxateur geen onroerend goed": {
+      "code": "61030",
+      "name": "Taxateur geen onroerend goed"
+    },
+    "Taxateur onroerend goed": {
+      "code": "61040",
+      "name": "Taxateur onroerend goed"
+    },
+    "Eigenaar taxionderneming niet meewerkend": {
+      "code": "61050",
+      "name": "Eigenaar taxionderneming niet meewerkend"
+    },
+    "Elektrotechnicus": {
+      "code": "61070",
+      "name": "Elektrotechnicus"
+    },
+    "Beeld en geluidstechnicus op locatie": {
+      "code": "61090",
+      "name": "Beeld en geluidstechnicus op locatie"
+    },
+    "Beeld en geluidstechnicus alleen studiowerk": {
+      "code": "61100",
+      "name": "Beeld en geluidstechnicus alleen studiowerk"
+    },
+    "Filmtechnicus / geluidstechnicus op locatie": {
+      "code": "61110",
+      "name": "Filmtechnicus / geluidstechnicus op locatie"
+    },
+    "Filmtechnicus / geluidstechnicus alleen studiowerk": {
+      "code": "61120",
+      "name": "Filmtechnicus / geluidstechnicus alleen studiowerk"
+    },
+    "Oortechnicus inclusief vervaardigen otoplastieken": {
+      "code": "61140",
+      "name": "Oortechnicus inclusief vervaardigen otoplastieken"
+    },
+    "Tegelzetter": {
+      "code": "61150",
+      "name": "Tegelzetter"
+    },
+    "Bouwkundig tekenaar": {
+      "code": "61180",
+      "name": "Bouwkundig tekenaar"
+    },
+    "Constructietekenaar": {
+      "code": "61200",
+      "name": "Constructietekenaar"
+    },
+    "Tekenaar / illustrator": {
+      "code": "61210",
+      "name": "Tekenaar / illustrator"
+    },
+    "Reclametekenaar": {
+      "code": "61220",
+      "name": "Reclametekenaar"
+    },
+    "Striptekenaar / karikatuurtekenaar / sneltekenaar": {
+      "code": "61230",
+      "name": "Striptekenaar / karikatuurtekenaar / sneltekenaar"
+    },
+    "Technisch tekenaar": {
+      "code": "61240",
+      "name": "Technisch tekenaar"
+    },
+    "Tekstschrijver": {
+      "code": "61250",
+      "name": "Tekstschrijver"
+    },
+    "Tentenbouwer": {
+      "code": "61420",
+      "name": "Tentenbouwer"
+    },
+    "Tentenmaker": {
+      "code": "61430",
+      "name": "Tentenmaker"
+    },
+    "Terrazzowerker": {
+      "code": "61440",
+      "name": "Terrazzowerker"
+    },
+    "Testcoördinator ICT": {
+      "code": "61450",
+      "name": "Testcoördinator ICT"
+    },
+    "Textielbewerker": {
+      "code": "61470",
+      "name": "Textielbewerker"
+    },
+    "Theateragent": {
+      "code": "61480",
+      "name": "Theateragent"
+    },
+    "Arbeidstherapeut": {
+      "code": "61500",
+      "name": "Arbeidstherapeut"
+    },
+    "Bekkentherapeut": {
+      "code": "61510",
+      "name": "Bekkentherapeut"
+    },
+    "Bezigheidstherapeut": {
+      "code": "61520",
+      "name": "Bezigheidstherapeut"
+    },
+    "Cesartherapeut / Mensendiecktherapeut": {
+      "code": "61530",
+      "name": "Cesartherapeut / Mensendiecktherapeut"
+    },
+    "Fysiotherapeut": {
+      "code": "61590",
+      "name": "Fysiotherapeut"
+    },
+    "Huidtherapeut": {
+      "code": "61630",
+      "name": "Huidtherapeut"
+    },
+    "Manueel therapeut": {
+      "code": "61660",
+      "name": "Manueel therapeut"
+    },
+    "Podotherapeut": {
+      "code": "61760",
+      "name": "Podotherapeut"
+    },
+    "Radiotherapeut": {
+      "code": "61800",
+      "name": "Radiotherapeut"
+    },
+    "Relatietherapeut": {
+      "code": "61810",
+      "name": "Relatietherapeut"
+    },
+    "Timmerman": {
+      "code": "61820",
+      "name": "Timmerman"
+    },
+    "Tolk": {
+      "code": "61830",
+      "name": "Tolk"
+    },
+    "Toneelspeler": {
+      "code": "61850",
+      "name": "Toneelspeler"
+    },
+    "Toxicoloog": {
+      "code": "61860",
+      "name": "Toxicoloog"
+    },
+    "Communicatietrainer": {
+      "code": "61890",
+      "name": "Communicatietrainer"
+    },
+    "Verkooptrainer": {
+      "code": "61990",
+      "name": "Verkooptrainer"
+    },
+    "Traiteur": {
+      "code": "62020",
+      "name": "Traiteur"
+    },
+    "Transportondernemer niet meewerkend": {
+      "code": "62040",
+      "name": "Transportondernemer niet meewerkend"
+    },
+    "Transportondernemer meewerkend": {
+      "code": "62060",
+      "name": "Transportondernemer meewerkend"
+    },
+    "Trimmer": {
+      "code": "62070",
+      "name": "Trimmer"
+    },
+    "Tuinman": {
+      "code": "62130",
+      "name": "Tuinman"
+    },
+    "Typograaf": {
+      "code": "62150",
+      "name": "Typograaf"
+    },
+    "Uitdeuker plaatwerker": {
+      "code": "65030",
+      "name": "Uitdeuker plaatwerker"
+    },
+    "Uitgever ook drukker": {
+      "code": "65040",
+      "name": "Uitgever ook drukker"
+    },
+    "Uitgever geen drukker": {
+      "code": "65050",
+      "name": "Uitgever geen drukker"
+    },
+    "Uitvoerder meewerkend": {
+      "code": "65080",
+      "name": "Uitvoerder meewerkend"
+    },
+    "Uitvoerder niet meewerkend": {
+      "code": "65090",
+      "name": "Uitvoerder niet meewerkend"
+    },
+    "Uroloog": {
+      "code": "65100",
+      "name": "Uroloog"
+    },
+    "Scheepswerktuigbouwkundige binnenvaart": {
+      "code": "67070",
+      "name": "Scheepswerktuigbouwkundige binnenvaart"
+    },
+    "Veeverloskundige": {
+      "code": "67180",
+      "name": "Veeverloskundige"
+    },
+    "Veeverzorger": {
+      "code": "67190",
+      "name": "Veeverzorger"
+    },
+    "Veiligheidsdeskundige": {
+      "code": "67200",
+      "name": "Veiligheidsdeskundige"
+    },
+    "Veilinghouder": {
+      "code": "67220",
+      "name": "Veilinghouder"
+    },
+    "Veilingmeester": {
+      "code": "67230",
+      "name": "Veilingmeester"
+    },
+    "Verhuizer meewerkend": {
+      "code": "67270",
+      "name": "Verhuizer meewerkend"
+    },
+    "Verhuizer niet meewerkend": {
+      "code": "67280",
+      "name": "Verhuizer niet meewerkend"
+    },
+    "Autoverhuurder": {
+      "code": "67290",
+      "name": "Autoverhuurder"
+    },
+    "Botenverhuurder met reparatie": {
+      "code": "67310",
+      "name": "Botenverhuurder met reparatie"
+    },
+    "Botenverhuurder zonder reparatie": {
+      "code": "67320",
+      "name": "Botenverhuurder zonder reparatie"
+    },
+    "Kamerverhuurder": {
+      "code": "67330",
+      "name": "Kamerverhuurder"
+    },
+    "Karren- en kramenverhuurder": {
+      "code": "67340",
+      "name": "Karren- en kramenverhuurder"
+    },
+    "Kraanverhuurder": {
+      "code": "67350",
+      "name": "Kraanverhuurder"
+    },
+    "Verhuurder licht en geluidsapparatuur": {
+      "code": "67360",
+      "name": "Verhuurder licht en geluidsapparatuur"
+    },
+    "Verhuurder machines / machineonderdelen": {
+      "code": "67370",
+      "name": "Verhuurder machines / machineonderdelen"
+    },
+    "Verkeersregelaar": {
+      "code": "67380",
+      "name": "Verkeersregelaar"
+    },
+    "Eerstelijns verloskundige": {
+      "code": "67440",
+      "name": "Eerstelijns verloskundige"
+    },
+    "Klinisch verloskundige": {
+      "code": "67450",
+      "name": "Klinisch verloskundige"
+    },
+    "Klinisch verpleegkundige": {
+      "code": "67460",
+      "name": "Klinisch verpleegkundige"
+    },
+    "Particulier verpleegkundige": {
+      "code": "67470",
+      "name": "Particulier verpleegkundige"
+    },
+    "Wijkverpleegkundige": {
+      "code": "67480",
+      "name": "Wijkverpleegkundige"
+    },
+    "Vertaler": {
+      "code": "67520",
+      "name": "Vertaler"
+    },
+    "Vertegenwoordiger niet reizend": {
+      "code": "67540",
+      "name": "Vertegenwoordiger niet reizend"
+    },
+    "Vertegenwoordiger reizend": {
+      "code": "67570",
+      "name": "Vertegenwoordiger reizend"
+    },
+    "Verzekeringsarts": {
+      "code": "67620",
+      "name": "Verzekeringsarts"
+    },
+    "Gezinsverzorger": {
+      "code": "67640",
+      "name": "Gezinsverzorger"
+    },
+    "Interieurverzorger": {
+      "code": "67650",
+      "name": "Interieurverzorger"
+    },
+    "Kinderverzorger": {
+      "code": "67660",
+      "name": "Kinderverzorger"
+    },
+    "Videotheekhouder": {
+      "code": "67740",
+      "name": "Videotheekhouder"
+    },
+    "Viroloog": {
+      "code": "67750",
+      "name": "Viroloog"
+    },
+    "Visagist": {
+      "code": "67760",
+      "name": "Visagist"
+    },
+    "Visfileerder": {
+      "code": "67770",
+      "name": "Visfileerder"
+    },
+    "Binnenwatervisser": {
+      "code": "67780",
+      "name": "Binnenwatervisser"
+    },
+    "Kustvisser": {
+      "code": "67830",
+      "name": "Kustvisser"
+    },
+    "Zeevisser": {
+      "code": "67900",
+      "name": "Zeevisser"
+    },
+    "Vloerenlegger": {
+      "code": "67940",
+      "name": "Vloerenlegger"
+    },
+    "Voeger": {
+      "code": "67960",
+      "name": "Voeger"
+    },
+    "Grafisch vormgever": {
+      "code": "67970",
+      "name": "Grafisch vormgever"
+    },
+    "Wasserij / stomerijhouder bezorgend": {
+      "code": "69040",
+      "name": "Wasserij / stomerijhouder bezorgend"
+    },
+    "Wasserij / stomerijhouder niet bezorgend": {
+      "code": "69050",
+      "name": "Wasserij / stomerijhouder niet bezorgend"
+    },
+    "Inspecteur waterkwaliteit": {
+      "code": "69070",
+      "name": "Inspecteur waterkwaliteit"
+    },
+    "Webdesigner": {
+      "code": "69080",
+      "name": "Webdesigner"
+    },
+    "Weerkundige": {
+      "code": "69090",
+      "name": "Weerkundige"
+    },
+    "Eigenaar dierenspeciaalzaak": {
+      "code": "69620",
+      "name": "Eigenaar dierenspeciaalzaak"
+    },
+    "Eigenaar kaas-, noten- en wijnenwinkel": {
+      "code": "70110",
+      "name": "Eigenaar kaas-, noten- en wijnenwinkel"
+    },
+    "Eigenaar keukenwinkel / badkamerwinkel": {
+      "code": "70200",
+      "name": "Eigenaar keukenwinkel / badkamerwinkel"
+    },
+    "Eigenaar lederwarenwinkel": {
+      "code": "70320",
+      "name": "Eigenaar lederwarenwinkel"
+    },
+    "Eigenaar natuurvoedingswinkel": {
+      "code": "70750",
+      "name": "Eigenaar natuurvoedingswinkel"
+    },
+    "Eigenaar souvenirwinkel": {
+      "code": "71060",
+      "name": "Eigenaar souvenirwinkel"
+    },
+    "Eigenaar viswinkel met bakken, fileren": {
+      "code": "71220",
+      "name": "Eigenaar viswinkel met bakken, fileren"
+    },
+    "Vishandelaar met viskraam": {
+      "code": "71230",
+      "name": "Vishandelaar met viskraam"
+    },
+    "Vishandelaar met verkoopwagen": {
+      "code": "71240",
+      "name": "Vishandelaar met verkoopwagen"
+    },
+    "Eigenaar viswinkel zonder bakken, fileren": {
+      "code": "71250",
+      "name": "Eigenaar viswinkel zonder bakken, fileren"
+    },
+    "Woninginrichter inclusief stofferen": {
+      "code": "71440",
+      "name": "Woninginrichter inclusief stofferen"
+    },
+    "Woninginrichter exclusief stofferen": {
+      "code": "71450",
+      "name": "Woninginrichter exclusief stofferen"
+    },
+    "Eigenaar cadeauwinkel": {
+      "code": "71500",
+      "name": "Eigenaar cadeauwinkel"
+    },
+    "Eigenaar voedingssupplementenwinkel": {
+      "code": "71510",
+      "name": "Eigenaar voedingssupplementenwinkel"
+    },
+    "Eigenaar speelgoedwinkel": {
+      "code": "71520",
+      "name": "Eigenaar speelgoedwinkel"
+    },
+    "Eigenaar sportartikelenwinkel": {
+      "code": "71530",
+      "name": "Eigenaar sportartikelenwinkel"
+    },
+    "Zadelmaker / tuigmaker": {
+      "code": "75010",
+      "name": "Zadelmaker / tuigmaker"
+    },
+    "Zanger": {
+      "code": "75020",
+      "name": "Zanger"
+    },
+    "Zeeloods": {
+      "code": "75050",
+      "name": "Zeeloods"
+    },
+    "Zeilmaker": {
+      "code": "75080",
+      "name": "Zeilmaker"
+    },
+    "Zenuwarts": {
+      "code": "75090",
+      "name": "Zenuwarts"
+    },
+    "Eigenaar zorgboerderij": {
+      "code": "75100",
+      "name": "Eigenaar zorgboerderij"
+    },
+    "Vlogger": {
+      "code": "75110",
+      "name": "Vlogger"
+    },
+    "Blogger": {
+      "code": "75120",
+      "name": "Blogger"
+    },
+    "Personal trainer": {
+      "code": "75130",
+      "name": "Personal trainer"
+    },
+    "Treinmachinist": {
+      "code": "75140",
+      "name": "Treinmachinist"
+    },
+    "Melkveehouder met melkrobot": {
+      "code": "75150",
+      "name": "Melkveehouder met melkrobot"
+    },
+    "Melkveehouder zonder melkrobot": {
+      "code": "75160",
+      "name": "Melkveehouder zonder melkrobot"
+    },
+    "Muziekproducent": {
+      "code": "75170",
+      "name": "Muziekproducent"
+    },
+    "Radioproducent / tv-producent": {
+      "code": "75180",
+      "name": "Radioproducent / tv-producent"
+    },
+    "Maag-, darm- en leverarts": {
+      "code": "75190",
+      "name": "Maag-, darm- en leverarts"
+    }
+  }
+}

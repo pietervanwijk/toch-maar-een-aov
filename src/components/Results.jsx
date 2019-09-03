@@ -7,7 +7,6 @@ function Results(props) {
     step,
     setStep,
     data,
-    setData,
   } = props;
 
   if(step !== 2) {
