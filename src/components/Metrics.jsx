@@ -1,6 +1,6 @@
 import React from 'react';
 import moment from 'moment';
-import { DatePicker, AutoComplete, Button, Icon } from 'antd';
+import { DatePicker, AutoComplete, Button, Icon, Radio } from 'antd';
 import getRiskAssessment from '../lib/getRiskAssessment';
 
 function Metrics(props) {
@@ -9,17 +9,29 @@ function Metrics(props) {
     setStep,
     data,
     setData,
-    professionNames,
+    professions,
   } = props;
+
+  const {
+    gender,
+    birthDate,
+    profession,
+  } = data;
+
 
   if(step !== 1) {
     return null;
   }
 
-  const dateFormat = "DD-MM-YYYY";
+  const dateFormat = "YYYY-MM-DD";
 
   function handleSubmit() {
-    getRiskAssessment();
+    if (gender && birthDate && profession) {
+      const professionCode = professions.list[profession].code;
+      const startDate = moment().format(dateFormat);
+
+      getRiskAssessment(birthDate, startDate, gender, professionCode);
+    }
   }
 
   return(
@@ -50,7 +62,7 @@ function Metrics(props) {
 
       <AutoComplete
         onChange={value => setData({ ...data, profession: value })}
-        dataSource={professionNames}
+        dataSource={professions.names}
         placeholder="Start met typen.."
         size="large"
         filterOption={(inputValue, option) =>
@@ -58,6 +70,11 @@ function Metrics(props) {
         }
         style={{ width: 250 }}
       />
+
+      <Radio.Group onChange={e => setData({ ...data, gender: e.target.value })}>
+        <Radio.Button value="Female">Vrouw</Radio.Button>
+        <Radio.Button value="Male">Man</Radio.Button>
+      </Radio.Group>
 
       <br /><br />
 

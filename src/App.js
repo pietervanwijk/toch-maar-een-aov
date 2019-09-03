@@ -3,7 +3,7 @@ import Footer from './components/Footer';
 import Metrics from './components/Metrics';
 import Results from './components/Results';
 import getProfessionsJSON from './lib/getProfessionsJSON';
-import professionList from './lib/professionList';
+import professionJSON from './lib/professionJSON';
 
 import 'antd/dist/antd.css';
 import './scss/app.scss';
@@ -11,12 +11,12 @@ import './scss/app.scss';
 function App() {
   const [step, setStep] = useState(1);
   const [data, setData] = useState({
-    profession: '',
+    profession: {},
     bucket: '',
-    birthDate: '28-04-1990',
+    birthDate: '1990-04-28',
+    startDate: '',
     gender: '',
     premie: '',
-    professionCode: '',
     r1: '',
     r42: 0.56,
     r7: 0.05,
@@ -24,15 +24,20 @@ function App() {
 
   function getProfessions() {
     const professionNames = [];
+    const professionList = {};
 
-    for(let i = 0; i < professionList.length; i += 1) {
-      professionNames.push(professionList[i].Name)
+    for(let i = 0; i < professionJSON.length; i += 1) {
+      professionNames.push(professionJSON[i].Name);
+      professionList[professionJSON[i].Name] = {
+        code: professionJSON[i].Code,
+        name: professionJSON[i].Name,
+      };
     }
 
-    return professionNames.sort();
+    return { names: professionNames.sort(), list: professionList }
   }
 
-  const professionNames = getProfessions()
+  const professions = getProfessions();
 
   return (
     <div className="app">
@@ -41,7 +46,7 @@ function App() {
         setStep={setStep}
         data={data}
         setData={setData}
-        professionNames={professionNames}
+        professions={professions}
       />
 
       <Results
