@@ -3,6 +3,8 @@ import moment from 'moment';
 import { DatePicker, AutoComplete, Button, Icon, Radio } from 'antd';
 import getRiskAssessment from '../lib/getRiskAssessment';
 
+const zeroNine = Math.floor(Math.random() * 10);
+
 function Metrics(props) {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState({
@@ -70,6 +72,14 @@ function Metrics(props) {
 
   return(
     <div className="metrics">
+      <div className="gif-container">
+        <img
+          className="gif"
+          src={`img/gifs/${zeroNine}.gif`}
+          alt="Toch maar een AOV?"
+        />
+      </div>
+
       <h1>
         Toch maar een AOV?
       </h1>
