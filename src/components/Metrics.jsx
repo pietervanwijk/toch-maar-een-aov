@@ -104,46 +104,50 @@ function Metrics(props) {
         Beroep
       </h3>
 
-      <AutoComplete
-        onSelect={value => {
-          setData({ ...data, profession: professions.list[value] })
-          setError({ ...error, profession: false })
-        }}
-        dataSource={professions.names}
-        placeholder="Start met typen.."
-        size="large"
-        filterOption={(inputValue, option) =>
-          option.props.children.toUpperCase().indexOf(inputValue.toUpperCase()) !== -1
-        }
-        style={{ width: 250 }}
-      />
+      <div className="profession">
+        <AutoComplete
+          onSelect={value => {
+            setData({ ...data, profession: professions.list[value] })
+            setError({ ...error, profession: false })
+          }}
+          dataSource={professions.names}
+          placeholder="Start met typen.."
+          size="large"
+          filterOption={(inputValue, option) =>
+            option.props.children.toUpperCase().indexOf(inputValue.toUpperCase()) !== -1
+          }
+          style={{ width: 250 }}
+        />
 
-      <p className="error-message" style={{ display: error.profession ? 'block' : 'none' }}>
-        Selecteer een beroep uit de lijst
-      </p>
+        <p className="error-message" style={{ display: error.profession ? 'block' : 'none' }}>
+          Selecteer een beroep uit de lijst
+        </p>
+      </div>
 
-      <br /><br />
+      <br />
 
-      <Radio.Group
-        buttonStyle="solid"
-        size="large"
-        onChange={e => {
-          setData({ ...data, gender: e.target.value })
-          setError({ ...error, gender: false })
-        }}
-        style={{ width: 250 }}
-        className="gender"
-        value={gender}
-      >
-        <Radio.Button value="Female">Vrouw</Radio.Button>
-        <Radio.Button value="Male">Man</Radio.Button>
-      </Radio.Group>
+      <div className="gender">
+        <Radio.Group
+          buttonStyle="solid"
+          size="large"
+          onChange={e => {
+            setData({ ...data, gender: e.target.value })
+            setError({ ...error, gender: false })
+          }}
+          style={{ width: 250 }}
+          className="gender"
+          value={gender}
+        >
+          <Radio.Button value="Female">Vrouw</Radio.Button>
+          <Radio.Button value="Male">Man</Radio.Button>
+        </Radio.Group>
 
-      <p className="error-message" style={{ display: error.gender ? 'block' : 'none' }}>
-        Selecteer een geslacht
-      </p>
+        <p className="error-message" style={{ display: error.gender ? 'block' : 'none' }}>
+          Selecteer een geslacht
+        </p>
+      </div>
 
-      <br /><br />
+      <br />
 
       <Button
         type="primary"

@@ -8,4 +8,12 @@
 
 .app {
   text-align: center;
+  padding: 0 1rem;
+
+  .footer {
+    .logo {
+      width: 180px;
+      margin-top: 1rem;
+    }
+  }
 }

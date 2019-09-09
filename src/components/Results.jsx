@@ -31,7 +31,7 @@ function Results(props) {
           <div className="background" />
           <div
             className="foreground"
-            style={{width: data.r42 / 3 * 250 }}
+            style={{width: data.r42 / 5 * 250 }}
           />
         </div>
       </div>
