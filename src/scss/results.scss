@@ -1,21 +1,42 @@
 .results {
 
-  .progress-bar {
-    width: 250px;
-    margin: auto;
-    height: 14px;
+  h2 {
+    margin-top: 1rem;
+    margin-bottom: 0;
+  }
 
-    .background {
-      width: 250px;
-      height: 14px;
-      background-color: #F5F5FA;
-      position: absolute;
+  .description {
+    margin-bottom: 2rem;
+  }
+
+  .risk-container {
+    margin-bottom: 2rem;
+
+    .description {
+      margin-bottom: 0;
     }
 
-    .foreground {
-      height: 14px;
-      background-color: #FF7500;
-      position: absolute;
+    .percentage {
+      font-weight: 600;
+      color: $dark-blue;
+      font-size: 3rem;
     }
   }
+
+  .buttons {
+    width: 250px;
+    margin: auto;
+
+    .offerte {
+      margin-bottom: 1rem;
+      width: 100%;
+    }
+
+    .back {
+      width: 100%;
+      margin-left: 0;
+      display: block;
+    }
+  }
+
 }

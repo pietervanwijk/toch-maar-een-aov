@@ -1,4 +1,5 @@
 import React from 'react';
+import CountUp from 'react-countup';
 import { Button, Icon } from 'antd';
 
 
@@ -9,59 +10,88 @@ function Results(props) {
     data,
   } = props;
 
+  const {
+    profession,
+    bucket,
+    birthDate,
+    startDate,
+    gender,
+    premie,
+    r1,
+    r42,
+    r7,
+    insurable,
+    calculationId,
+  } = data;
+
   if(step !== 2) {
     return null;
   }
 
+  const url = `https://tulpenfonds.nl/offerte/?b=${bucket}&i=${startDate}&gb=${birthDate}&g=${gender}&r1=${r1}&r42=${r42}&r7=${r1}&premie=${premie}&w=${profession}&utm_source=tochmaareenaov.nl`;
+
   return(
     <div className="results">
-      <h1>
-        Jouw risico komend jaar
-      </h1>
+      <h2>
+        Jouw risico op arbeidsongeschiktheid
+      </h2>
+      <p className="description">
+        Percentages gelden voor de komende 12 maanden
+      </p>
 
       <div className="risk-container">
         <p className="description">
-          42 dagen of langer arbeidsongeschikt
+          <strong>42 dagen</strong> of langer
         </p>
-        <p className="percentage">
-          {data.r42}
-          %
-        </p>
-        <div className="progress-bar">
-          <div className="background" />
-          <div
-            className="foreground"
-            style={{width: data.r42 / 5 * 250 }}
-          />
-        </div>
+        <CountUp
+          end={r42}
+          duration={5}
+          decimals={2}
+          suffix="%"
+          className="percentage"
+        />
       </div>
 
       <div className="risk-container">
         <p className="description">
-          7 jaar of langer arbeidsongeschikt
+          <strong>7 jaar</strong> of langer
         </p>
-        <p className="percentage">
-          {data.r7}
-          %
-        </p>
-        <div className="progress-bar">
-          <div className="background" />
-          <div
-            className="foreground"
-            style={{width: data.r7 / 3 * 250 }}
-          />
-        </div>
+
+        <CountUp
+          end={r7}
+          duration={5}
+          decimals={2}
+          suffix="%"
+          className="percentage"
+        />
       </div>
 
-      <Button
-        type="secondary"
-        size="large"
-        style={{ width: 250 }}
-        onClick={() => setStep(1)}
-      >
-        <Icon type="left" />
-        Terug
-      </Button>
+      <p>
+        Bij het Tulpenfonds kan je je voor <strong>€{premie} per maand</strong> verzekeren tegen dit risico.
+      </p>
+
+      <div className="buttons">
+        <Button
+          type="primary"
+          size="large"
+          className="offerte"
+          href={url}
+        >
+          <Icon type="file-text" />
+          Vraag offerte aan
+        </Button>
+
+        <Button
+          type="secondary"
+          size="large"
+          className="back"
+          onClick={() => setStep(1)}
+        >
+          <Icon type="left" />
+          Terug
+        </Button>
+      </div>
+
 
 
 
