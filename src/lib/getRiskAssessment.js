@@ -5,12 +5,12 @@ function getRiskAssessment(birthDate, startDate, gender, profession, success) {
 
   axios.post(
     url,
-    { birthDate,
+    {
+      birthDate,
       startDate,
       gender,
       profession,
-    }
-    )
+    })
     .then(response => success(response.data))
 }
 

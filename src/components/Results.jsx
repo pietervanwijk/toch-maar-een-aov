@@ -67,7 +67,7 @@ function Results(props) {
       </div>
 
       <p>
-        Bij het Tulpenfonds kan je je voor <strong>€{premie} per maand</strong> verzekeren tegen dit risico.
+        Met dit profiel ben je bij het Tulpenfonds voor <strong>€{premie} per maand</strong> verzekerd voor arbeidsongeschiktheid.
       </p>
 
       <div className="buttons">

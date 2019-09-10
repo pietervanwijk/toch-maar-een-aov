@@ -16,15 +16,16 @@ const tagManagerArgs = {
 
 TagManager.initialize(tagManagerArgs);
 
-const dateFormat = "YYYY-MM-DD";
+const dateFormatApi = "YYYY-MM-DD";
+const dateFormatUser = "DD-MM-YYYY";
 
 function App() {
   const [step, setStep] = useState(1);
   const [data, setData] = useState({
     profession: '',
     bucket: '',
-    birthDate: moment().subtract(30,'years').format(dateFormat),
-    startDate: moment().add(1,'days').format(dateFormat),
+    birthDate: '',
+    startDate: moment().add(1,'days').format(dateFormatApi),
     gender: '',
     premie: '',
     r1: '',
@@ -42,7 +43,8 @@ function App() {
         data={data}
         setData={setData}
         professions={professions}
-        dateFormat={dateFormat}
+        dateFormatApi={dateFormatApi}
+        dateFormatUser={dateFormatUser}
       />
 
       <Results

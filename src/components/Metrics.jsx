@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import moment from 'moment';
-import { DatePicker, AutoComplete, Button, Icon, Radio } from 'antd';
+import { Input, AutoComplete, Button, Icon, Radio } from 'antd';
 import getRiskAssessment from '../lib/getRiskAssessment';
 
 const zeroNine = Math.floor(Math.random() * 10);
@@ -18,7 +18,8 @@ function Metrics(props) {
     data,
     setData,
     professions,
-    dateFormat,
+    dateFormatApi,
+    dateFormatUser,
   } = props;
 
   const {
@@ -59,14 +60,20 @@ function Metrics(props) {
   }
 
   function handleSubmit() {
-    if (gender && birthDate && profession) {
+    const birthDateFormatted = moment(birthDate, dateFormatUser).format(dateFormatApi);
+
+    if (gender && birthDateFormatted.length === 10 && profession) {
       setLoading(true);
 
-      getRiskAssessment(birthDate, startDate, gender, profession.code, success);
+      setError({});
+
+      getRiskAssessment(birthDateFormatted, startDate, gender, profession.code, success);
+    } else if (birthDateFormatted.length !== 10) {
+      setError({ birthDate: true })
     } else if (!profession) {
-      setError({ ...error, profession: true })
+      setError({ profession: true })
     } else if (!gender) {
-      setError({ ...error, gender: true })
+      setError({ gender: true })
     }
   }
 
@@ -84,27 +91,34 @@ function Metrics(props) {
         Toch maar een AOV?
       </h1>
       <p>
-        Wat is jouw kans om arbeidsongeschikt te raken?
+        Wat is jouw kans op arbeidsongeschiktheid?
       </p>
 
-      <h3>
-        Geboortedatum
-      </h3>
+      <div className="birthdate">
+        <h3>
+          Geboortedatum
+        </h3>
 
-      <DatePicker
-        format={dateFormat}
-        onChange={value => setData({ ...data, birthDate: moment(value._d).format(dateFormat) })}
-        value={moment(data.birthDate, dateFormat)}
-        size="large"
-        style={{ width: 250 }}
-      />
+        <Input
+          placeholder="DD-MM-JJJJ"
+          onChange={e => setData({ ...data, birthDate: e.target.value })}
+          value={birthDate}
+          size="large"
+          style={{ width: 250 }}
+        />
 
-      <br /><br />
-      <h3>
-        Beroep
-      </h3>
+        <p className="error-message" style={{ display: error.birthDate ? 'block' : 'none' }}>
+          Voer een datum in DD-MM-JJJJ
+        </p>
+      </div>
+
+      <br />
 
       <div className="profession">
+        <h3>
+          Beroep
+        </h3>
+
         <AutoComplete
           onSelect={value => {
             setData({ ...data, profession: professions.list[value] })
