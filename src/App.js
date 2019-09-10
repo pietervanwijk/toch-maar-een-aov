@@ -1,11 +1,20 @@
 import React, { useState } from 'react';
 import moment from 'moment';
+import TagManager from 'react-gtm-module';
+
 import Footer from './components/Footer';
 import Metrics from './components/Metrics';
 import Results from './components/Results';
 import professions from './lib/professions'
 
 import './scss/app.scss';
+
+const tagManagerArgs = {
+  gtmId: 'GTM-KWX7HCN',
+  dataLayerName: 'AppDataLayer',
+};
+
+TagManager.initialize(tagManagerArgs);
 
 const dateFormat = "YYYY-MM-DD";
 

@@ -14,5 +14,4 @@
     return { names: professionNames.sort(), list: professionList }
   }
 
-
 export default getProfessionsObject;

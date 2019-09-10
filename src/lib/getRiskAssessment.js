@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 function getRiskAssessment(birthDate, startDate, gender, profession, success) {
-  const url = 'http://tochmaareenaov.nl/api/riskassessment';
+  const url = '/api/riskassessment';
 
   axios.post(
     url,
