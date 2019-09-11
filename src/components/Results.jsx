@@ -1,6 +1,7 @@
 import React from 'react';
 import CountUp from 'react-countup';
 import { Button, Icon } from 'antd';
+import tagManager from '../lib/googleTagManager'
 
 
 function Results(props) {
@@ -75,7 +76,10 @@ function Results(props) {
           type="primary"
           size="large"
           className="offerte"
-          href={url}
+          onClick={() => {
+            tagManager({ event: 'tochMaarEenAovOfferte' });
+            window.open(url);
+          }}
         >
           <Icon type="file-text" />
           Vraag offerte aan
