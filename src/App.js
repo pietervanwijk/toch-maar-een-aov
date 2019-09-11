@@ -1,6 +1,7 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import moment from 'moment';
 import TagManager from 'react-gtm-module';
+import tagManager from './lib/googleTagManager'
 
 import Footer from './components/Footer';
 import Metrics from './components/Metrics';
@@ -34,6 +35,8 @@ function App() {
     insurable: '',
     calculationId: '',
   })
+
+  useEffect(() => tagManager({ event: 'tochMaarEenAovStep1' }), []);
 
   return (
     <div className="app">

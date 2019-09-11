@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import moment from 'moment';
 import { Input, AutoComplete, Button, Icon, Radio } from 'antd';
 import getRiskAssessment from '../lib/getRiskAssessment';
+import tagManager from '../lib/googleTagManager'
 
 const zeroNine = Math.floor(Math.random() * 10);
 
@@ -65,9 +66,12 @@ function Metrics(props) {
     if (gender && birthDateFormatted.length === 10 && profession) {
       setLoading(true);
 
+      getRiskAssessment(birthDateFormatted, startDate, gender, profession.code, success);
+
       setError({});
 
-      getRiskAssessment(birthDateFormatted, startDate, gender, profession.code, success);
+      tagManager({ event: 'tochMaarEenAovStep2' });
+
     } else if (birthDateFormatted.length !== 10) {
       setError({ birthDate: true })
     } else if (!profession) {
