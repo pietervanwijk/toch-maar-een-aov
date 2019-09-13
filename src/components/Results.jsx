@@ -1,5 +1,4 @@
 import React from 'react';
-import CountUp from 'react-countup';
 import { Button, Icon } from 'antd';
 import tagManager from '../lib/googleTagManager'
 
@@ -21,54 +20,45 @@ function Results(props) {
     r1,
     r42,
     r7,
-    insurable,
-    calculationId,
   } = data;
 
   if(step !== 2) {
     return null;
   }
 
-  const url = `https://tulpenfonds.nl/offerte/?b=${bucket}&i=${startDate}&gb=${birthDate}&g=${gender}&r1=${r1}&r42=${r42}&r7=${r1}&premie=${premie}&w=${profession}&utm_source=tochmaareenaov.nl`;
+  let risk;
+
+  switch (bucket) {
+    case 'Blauw':
+      risk = 'laag';
+      break;
+    case 'Groen':
+      risk = 'licht';
+      break;
+    case 'Paars':
+      risk = 'gemiddeld';
+      break;
+    case 'Oranje':
+      risk = 'hoog';
+      break;
+    default:
+      risk = 'onbekend';
+  }
+
+
+  const url = `https://tulpenfonds.nl/offerte/?b=${bucket}&i=${startDate}&gb=${birthDate}&g=${gender}&r1=${r1}&r42=${r42}&r7=${r7}&premie=${premie}&w=${profession}&utm_source=tochmaareenaov.nl`;
 
   return(
     <div className="results">
+
+      <img src={`/img/${bucket}.png`} alt="solidariteitsgroep" className="bucket" />
+
       <h2>
-        Jouw risico op arbeidsongeschiktheid
+        Jouw risico op arbeidsongeschiktheid is <strong>{risk}</strong>.
       </h2>
-      <p className="description">
-        Percentages gelden voor de komende 12 maanden
-      </p>
-
-      <div className="risk-container">
-        <p className="description">
-          <strong>42 dagen</strong> of langer
-        </p>
-        <CountUp
-          end={r42}
-          duration={5}
-          decimals={2}
-          suffix="%"
-          className="percentage"
-        />
-      </div>
-
-      <div className="risk-container">
-        <p className="description">
-          <strong>7 jaar</strong> of langer
-        </p>
-
-        <CountUp
-          end={r7}
-          duration={5}
-          decimals={2}
-          suffix="%"
-          className="percentage"
-        />
-      </div>
 
       <p>
-        Met dit profiel ben je bij het Tulpenfonds voor <strong>€{premie} per maand</strong> verzekerd voor arbeidsongeschiktheid.
+        Met dit profiel ben je bij het Tulpenfonds voor <strong>€{premie} per maand</strong> verzekerd bij arbeidsongeschiktheid.
       </p>
 
       <div className="buttons">
