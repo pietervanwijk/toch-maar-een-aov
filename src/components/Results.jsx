@@ -45,8 +45,7 @@ function Results(props) {
       risk = 'onbekend';
   }
 
-
-  const url = `https://tulpenfonds.nl/offerte/?b=${bucket}&i=${startDate}&gb=${birthDate}&g=${gender}&r1=${r1}&r42=${r42}&r7=${r7}&premie=${premie}&w=${profession}&utm_source=tochmaareenaov.nl`;
+  const url = `https://tulpenfonds.nl/offerte/?b=${bucket}&i=${startDate}&gb=${birthDate}&g=${gender === 'male' ? 'Man' : 'Vrouw'}&r1=${r1}&r42=${r42}&r7=${r7}&premie=${premie}&w=${profession}&utm_source=tochmaareenaov.nl`;
 
   return(
     <div className="results">
@@ -72,7 +71,7 @@ function Results(props) {
           }}
         >
           <Icon type="file-text" />
-          Vraag offerte aan
+          Mail offerte
         </Button>
 
         <Button
