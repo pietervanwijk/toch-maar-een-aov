@@ -9,6 +9,7 @@ import Results from './components/Results';
 import professions from './lib/professions'
 
 import './scss/app.scss';
+import InfoPage from './components/InfoPage';
 
 const tagManagerArgs = {
   gtmId: 'GTM-KWX7HCN',
@@ -21,7 +22,7 @@ const dateFormatApi = "YYYY-MM-DD";
 const dateFormatUser = "DD-MM-YYYY";
 
 function App() {
-  const [step, setStep] = useState(1);
+  const [step, setStep] = useState(2);
   const [data, setData] = useState({
     profession: '',
     bucket: '',
@@ -29,9 +30,9 @@ function App() {
     startDate: moment().add(1,'days').format(dateFormatApi),
     gender: '',
     premie: '',
-    r1: '',
-    r42: '',
-    r7: '',
+    r1: 1,
+    r42: 1,
+    r7: 1,
     insurable: '',
     calculationId: '',
   })
@@ -51,6 +52,12 @@ function App() {
       />
 
       <Results
+        step={step}
+        setStep={setStep}
+        data={data}
+      />
+
+      <InfoPage
         step={step}
         setStep={setStep}
         data={data}

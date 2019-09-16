@@ -1,0 +1,52 @@
+.info-page {
+  width: 100%;
+  max-width: 450px;
+  margin: auto;
+  text-align: left;
+  padding: 2rem 1rem;
+
+  .logo {
+    width: 137px;
+    display: block;
+    margin-bottom: 1rem;
+  }
+
+  .intro {
+    color: $dark-blue;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+
+    li {
+      padding-left: 22px;
+      padding-bottom: 1rem;
+      position: relative;
+    }
+
+    .list-title {
+      font-weight: 700;
+      color: $dark-blue;
+    }
+
+    li::before {
+      content: '';
+      background-image: url('/img/tulip-orange.svg');
+      background-repeat: no-repeat;
+      background-size: contain;
+      width: 14px;
+      height: 14px;
+      display: inline-block;
+      margin-right: 6px;
+      position: absolute;
+      left: 0;
+      top: 3px;
+    }
+  }
+
+  .offerte {
+    margin-bottom: 1rem;
+    width: 100%;
+  }
+}

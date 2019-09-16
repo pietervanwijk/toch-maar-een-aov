@@ -45,8 +45,6 @@ function Results(props) {
       risk = 'onbekend';
   }
 
-  const url = `https://tulpenfonds.nl/offerte/?b=${bucket}&i=${startDate}&gb=${birthDate}&g=${gender === 'male' ? 'Man' : 'Vrouw'}&r1=${r1.toFixed(2)}&r42=${r42.toFixed(2)}&r7=${r7.toFixed(2)}&premie=${premie}&w=${profession.name}&utm_source=tochmaareenaov.nl`;
-
   return(
     <div className="results">
 
@@ -66,12 +64,11 @@ function Results(props) {
           size="large"
           className="offerte"
           onClick={() => {
-            tagManager({ event: 'tochMaarEenAovOfferte' });
-            window.open(url);
+            tagManager({ event: 'tochMaarEenAovStep3' });
+            setStep(3);
           }}
         >
-          <Icon type="file-text" />
-          Mail offerte
+          Hoe werkt zo’n AOV precies?
         </Button>
 
         <Button
