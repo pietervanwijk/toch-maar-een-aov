@@ -22,7 +22,7 @@ const dateFormatApi = "YYYY-MM-DD";
 const dateFormatUser = "DD-MM-YYYY";
 
 function App() {
-  const [step, setStep] = useState(2);
+  const [step, setStep] = useState(1);
   const [data, setData] = useState({
     profession: '',
     bucket: '',
@@ -30,9 +30,9 @@ function App() {
     startDate: moment().add(1,'days').format(dateFormatApi),
     gender: '',
     premie: '',
-    r1: 1,
-    r42: 1,
-    r7: 1,
+    r1: '',
+    r42: '',
+    r7: '',
     insurable: '',
     calculationId: '',
   })
