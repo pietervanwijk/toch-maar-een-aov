@@ -9,7 +9,7 @@
     "curl": "^0.1.4",
     "less": "^3.10.3",
     "moment": "^2.24.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "rc-slider": "^8.6.13",
     "react": "^16.9.0",
     "react-countup": "^4.2.2",
